@@ -1,0 +1,8 @@
+Task 19 — Top 10 Products by Sales
+Dataset rows: 1500
+Unique products: 20
+Date range: 2023-01-01 to 2025-12-30
+Total sales: ₹2,146,283.97
+Top product: Cisco TelePresence System
+Top product sales: ₹549,515.75
+Dataset is synthetic practice data, not official Superstore data.

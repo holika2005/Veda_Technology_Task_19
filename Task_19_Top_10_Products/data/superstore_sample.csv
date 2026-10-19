@@ -1,0 +1,1501 @@
+Order ID,Order Date,Region,Segment,Category,Product Name,Quantity,Discount,Sales
+ORD-21395,2023-01-01,Central,Corporate,Technology,Logitech Wireless Mouse,8,0.0,240.9
+ORD-20121,2023-01-01,Central,Home Office,Technology,Brother Laser Printer,4,0.3,920.38
+ORD-21437,2023-01-05,Central,Home Office,Technology,Canon imageCLASS 2200,3,0.2,2058.31
+ORD-20541,2023-01-07,West,Corporate,Technology,Cisco TelePresence System,4,0.15,3746.6
+ORD-20322,2023-01-08,East,Home Office,Furniture,Bush Advantage Collection Table,2,0.15,802.67
+ORD-20407,2023-01-08,East,Corporate,Technology,Logitech Wireless Mouse,5,0.1,179.09
+ORD-20542,2023-01-09,East,Home Office,Office Supplies,GBC DocuBind TL300,5,0.2,452.81
+ORD-21077,2023-01-13,West,Corporate,Office Supplies,Fellowes PB500 Binding Machine,9,0.0,1863.02
+ORD-20539,2023-01-14,East,Consumer,Technology,Epson WorkForce Printer,4,0.0,1101.25
+ORD-20961,2023-01-16,West,Home Office,Technology,Samsung Galaxy Phone,10,0.15,4936.43
+ORD-20162,2023-01-16,Central,Home Office,Technology,Brother Laser Printer,10,0.0,3334.74
+ORD-20375,2023-01-16,East,Consumer,Furniture,Office Star Ergonomic Chair,6,0.0,1300.92
+ORD-20789,2023-01-16,South,Corporate,Office Supplies,Fellowes PB500 Binding Machine,2,0.3,299.72
+ORD-20323,2023-01-17,West,Home Office,Furniture,Global Troy Executive Leather Chair,5,0.05,1792.24
+ORD-20931,2023-01-17,East,Corporate,Technology,HP LaserJet 3310,1,0.1,525.22
+ORD-21144,2023-01-18,Central,Home Office,Office Supplies,Avery Durable Binder,2,0.3,27.18
+ORD-20629,2023-01-18,South,Consumer,Technology,Logitech Wireless Mouse,7,0.3,188.28
+ORD-21450,2023-01-18,Central,Corporate,Office Supplies,Staples File Folders,2,0.0,24.18
+ORD-20507,2023-01-22,East,Home Office,Technology,Samsung Galaxy Phone,1,0.15,595.47
+ORD-21421,2023-01-22,West,Corporate,Technology,Cisco TelePresence System,6,0.15,6889.34
+ORD-20350,2023-01-22,West,Corporate,Furniture,Office Star Ergonomic Chair,1,0.0,238.27
+ORD-20952,2023-01-24,South,Corporate,Office Supplies,Avery Durable Binder,8,0.1,147.47
+ORD-20626,2023-01-25,West,Corporate,Office Supplies,Staples File Folders,4,0.0,50.55
+ORD-20731,2023-01-27,Central,Corporate,Office Supplies,Fellowes PB500 Binding Machine,10,0.05,1875.08
+ORD-20064,2023-01-27,East,Corporate,Office Supplies,GBC DocuBind TL300,10,0.0,1395.12
+ORD-21315,2023-01-28,East,Corporate,Office Supplies,Avery Durable Binder,5,0.0,100.43
+ORD-20798,2023-01-28,South,Home Office,Furniture,Bush Advantage Collection Table,7,0.05,2835.2
+ORD-20820,2023-01-29,South,Corporate,Technology,Logitech Wireless Mouse,8,0.0,318.56
+ORD-21225,2023-01-29,West,Home Office,Technology,Canon imageCLASS 2200,8,0.0,5984.18
+ORD-21070,2023-01-30,West,Home Office,Furniture,Sauder Bookcase,2,0.0,384.12
+ORD-21438,2023-01-31,East,Home Office,Technology,Cisco TelePresence System,10,0.1,10981.88
+ORD-21292,2023-01-31,West,Home Office,Office Supplies,Wilson Jones Legal Size Ring Binders,5,0.0,99.38
+ORD-21439,2023-02-01,West,Consumer,Technology,Samsung Galaxy Phone,5,0.0,2934.57
+ORD-20471,2023-02-02,South,Home Office,Technology,Samsung Galaxy Phone,3,0.3,1134.92
+ORD-20431,2023-02-03,Central,Corporate,Technology,Cisco TelePresence System,9,0.0,11621.9
+ORD-20014,2023-02-03,East,Consumer,Technology,HP LaserJet 3310,7,0.2,2819.7
+ORD-20589,2023-02-03,South,Home Office,Technology,HP LaserJet 3310,6,0.0,3224.78
+ORD-20386,2023-02-04,West,Home Office,Office Supplies,GBC DocuBind TL300,9,0.3,918.52
+ORD-20943,2023-02-05,East,Corporate,Office Supplies,Fellowes PB500 Binding Machine,5,0.1,732.78
+ORD-21138,2023-02-05,East,Consumer,Office Supplies,GBC DocuBind TL300,1,0.0,141.89
+ORD-20979,2023-02-05,West,Consumer,Office Supplies,Smead Hanging File Folder,9,0.05,145.62
+ORD-21182,2023-02-06,East,Home Office,Furniture,Office Star Ergonomic Chair,8,0.1,1422.9
+ORD-20207,2023-02-07,West,Corporate,Technology,Logitech Wireless Mouse,10,0.05,311.39
+ORD-21203,2023-02-07,East,Consumer,Furniture,Bush Advantage Collection Table,9,0.1,3860.49
+ORD-20606,2023-02-07,East,Corporate,Office Supplies,Fellowes PB500 Binding Machine,9,0.0,1500.05
+ORD-21049,2023-02-08,South,Home Office,Office Supplies,Fellowes PB500 Binding Machine,10,0.15,1422.0
+ORD-20897,2023-02-08,South,Consumer,Technology,Canon imageCLASS 2200,6,0.2,4127.68
+ORD-20482,2023-02-08,Central,Consumer,Furniture,Bush Advantage Collection Table,4,0.1,1338.85
+ORD-21304,2023-02-09,West,Corporate,Office Supplies,Wilson Jones Legal Size Ring Binders,8,0.15,132.57
+ORD-20210,2023-02-09,Central,Home Office,Technology,Samsung Galaxy Phone,8,0.3,2978.93
+ORD-20063,2023-02-10,West,Consumer,Office Supplies,Wilson Jones Legal Size Ring Binders,9,0.2,144.24
+ORD-20871,2023-02-13,South,Home Office,Office Supplies,Wilson Jones Legal Size Ring Binders,6,0.1,111.56
+ORD-21189,2023-02-15,West,Consumer,Technology,Samsung Galaxy Phone,6,0.3,2696.75
+ORD-21053,2023-02-15,South,Corporate,Office Supplies,Desk Organizer Set,6,0.1,127.49
+ORD-20496,2023-02-16,East,Corporate,Office Supplies,Wilson Jones Legal Size Ring Binders,9,0.3,154.55
+ORD-21305,2023-02-16,East,Corporate,Office Supplies,Desk Organizer Set,3,0.3,48.04
+ORD-21197,2023-02-17,West,Corporate,Furniture,HON 5400 Series Task Chairs,1,0.05,288.59
+ORD-21107,2023-02-17,West,Home Office,Technology,Brother Laser Printer,9,0.3,1908.94
+ORD-20096,2023-02-17,South,Corporate,Technology,HP LaserJet 3310,10,0.0,6164.43
+ORD-20454,2023-02-18,South,Corporate,Office Supplies,Staples File Folders,3,0.0,38.4
+ORD-21042,2023-02-18,East,Corporate,Office Supplies,Staples File Folders,5,0.15,45.28
+ORD-21125,2023-02-18,Central,Consumer,Office Supplies,Desk Organizer Set,1,0.1,24.82
+ORD-21136,2023-02-19,South,Consumer,Furniture,Office Star Ergonomic Chair,8,0.3,1012.13
+ORD-20926,2023-02-19,West,Home Office,Furniture,Bush Advantage Collection Table,4,0.3,1187.97
+ORD-20410,2023-02-19,West,Corporate,Technology,Logitech Wireless Mouse,10,0.05,344.93
+ORD-20385,2023-02-20,West,Consumer,Technology,Brother Laser Printer,7,0.3,1656.88
+ORD-20872,2023-02-20,Central,Consumer,Technology,HP LaserJet 3310,10,0.2,4730.62
+ORD-20460,2023-02-20,Central,Home Office,Technology,Brother Laser Printer,6,0.15,1487.11
+ORD-20282,2023-02-22,West,Corporate,Technology,Logitech Wireless Mouse,7,0.15,184.25
+ORD-20676,2023-02-23,West,Corporate,Office Supplies,Staples File Folders,8,0.15,85.39
+ORD-20554,2023-02-24,West,Corporate,Technology,Cisco TelePresence System,10,0.3,9568.45
+ORD-20864,2023-02-24,South,Corporate,Furniture,Office Star Ergonomic Chair,5,0.3,756.86
+ORD-20495,2023-02-25,South,Consumer,Technology,Brother Laser Printer,6,0.0,1807.24
+ORD-20073,2023-02-26,Central,Corporate,Technology,HP LaserJet 3310,8,0.15,3353.0
+ORD-21033,2023-02-27,Central,Home Office,Office Supplies,Fellowes PB500 Binding Machine,8,0.05,1408.71
+ORD-20941,2023-02-27,East,Corporate,Office Supplies,Desk Organizer Set,1,0.0,22.67
+ORD-20819,2023-02-27,Central,Home Office,Office Supplies,Staples File Folders,9,0.3,81.78
+ORD-20824,2023-02-28,Central,Consumer,Furniture,Office Star Ergonomic Chair,1,0.1,164.67
+ORD-20187,2023-02-28,East,Home Office,Office Supplies,Staples File Folders,7,0.1,79.04
+ORD-20976,2023-03-01,Central,Corporate,Furniture,Global Troy Executive Leather Chair,4,0.0,1229.86
+ORD-20612,2023-03-02,Central,Consumer,Furniture,Bush Advantage Collection Table,9,0.0,3295.45
+ORD-20741,2023-03-05,South,Home Office,Technology,Cisco TelePresence System,8,0.1,9780.97
+ORD-21123,2023-03-05,Central,Home Office,Technology,HP LaserJet 3310,8,0.0,4888.26
+ORD-20240,2023-03-06,West,Consumer,Office Supplies,Wilson Jones Legal Size Ring Binders,9,0.15,176.79
+ORD-20154,2023-03-07,East,Corporate,Technology,Epson WorkForce Printer,5,0.0,1250.25
+ORD-20312,2023-03-07,Central,Home Office,Furniture,Bush Advantage Collection Table,5,0.1,1700.15
+ORD-21253,2023-03-07,East,Consumer,Office Supplies,Wilson Jones Legal Size Ring Binders,5,0.2,93.04
+ORD-21147,2023-03-08,West,Home Office,Technology,Anker USB-C Hub,3,0.3,106.25
+ORD-20930,2023-03-08,South,Consumer,Technology,Anker USB-C Hub,7,0.05,352.01
+ORD-20478,2023-03-09,South,Consumer,Furniture,Global Troy Executive Leather Chair,8,0.05,2975.01
+ORD-20390,2023-03-10,West,Corporate,Office Supplies,Smead Hanging File Folder,10,0.05,135.61
+ORD-20847,2023-03-11,East,Corporate,Technology,Logitech Wireless Mouse,1,0.0,29.98
+ORD-20755,2023-03-12,West,Consumer,Office Supplies,Avery Durable Binder,9,0.2,136.21
+ORD-20555,2023-03-12,East,Corporate,Technology,Canon imageCLASS 2200,1,0.1,664.36
+ORD-21476,2023-03-13,Central,Consumer,Technology,Brother Laser Printer,3,0.0,1008.23
+ORD-21486,2023-03-14,East,Corporate,Office Supplies,GBC DocuBind TL300,7,0.0,879.31
+ORD-20212,2023-03-16,West,Corporate,Technology,Anker USB-C Hub,2,0.1,77.79
+ORD-21282,2023-03-17,Central,Home Office,Office Supplies,Staples File Folders,7,0.15,70.1
+ORD-20217,2023-03-18,South,Consumer,Technology,Logitech Wireless Mouse,4,0.05,144.6
+ORD-21087,2023-03-19,Central,Corporate,Office Supplies,Smead Hanging File Folder,9,0.2,123.17
+ORD-21237,2023-03-21,West,Consumer,Office Supplies,Wilson Jones Legal Size Ring Binders,4,0.0,97.96
+ORD-20354,2023-03-22,West,Consumer,Furniture,Office Star Ergonomic Chair,5,0.0,900.77
+ORD-21083,2023-03-22,Central,Corporate,Office Supplies,Fellowes PB500 Binding Machine,10,0.05,1936.48
+ORD-21150,2023-03-23,West,Home Office,Technology,Anker USB-C Hub,8,0.1,337.43
+ORD-20921,2023-03-23,Central,Consumer,Office Supplies,Staples File Folders,7,0.2,76.13
+ORD-20925,2023-03-24,West,Corporate,Furniture,Office Star Ergonomic Chair,9,0.0,2125.19
+ORD-20489,2023-03-24,Central,Home Office,Technology,Canon imageCLASS 2200,1,0.3,536.34
+ORD-20119,2023-03-26,Central,Corporate,Office Supplies,Avery Durable Binder,9,0.15,150.81
+ORD-21349,2023-03-26,West,Corporate,Technology,Brother Laser Printer,3,0.15,833.26
+ORD-21193,2023-03-27,West,Home Office,Furniture,Sauder Bookcase,4,0.0,642.06
+ORD-20803,2023-03-28,South,Consumer,Furniture,Global Troy Executive Leather Chair,8,0.2,2471.3
+ORD-20644,2023-03-28,South,Corporate,Office Supplies,Staples File Folders,2,0.0,20.43
+ORD-20307,2023-03-28,East,Consumer,Office Supplies,Fellowes PB500 Binding Machine,7,0.0,1196.86
+ORD-21171,2023-03-29,South,Home Office,Furniture,Bush Advantage Collection Table,2,0.2,633.14
+ORD-20807,2023-03-29,West,Home Office,Furniture,Global Troy Executive Leather Chair,10,0.15,2636.29
+ORD-20001,2023-03-30,Central,Home Office,Technology,Epson WorkForce Printer,2,0.15,402.15
+ORD-21345,2023-04-01,South,Consumer,Office Supplies,GBC DocuBind TL300,5,0.05,533.88
+ORD-21100,2023-04-02,South,Consumer,Office Supplies,Fellowes PB500 Binding Machine,1,0.1,150.23
+ORD-20087,2023-04-03,West,Corporate,Technology,Epson WorkForce Printer,2,0.15,386.26
+ORD-21135,2023-04-04,Central,Consumer,Furniture,Global Troy Executive Leather Chair,8,0.0,2489.4
+ORD-20564,2023-04-04,Central,Home Office,Furniture,Office Star Ergonomic Chair,6,0.15,914.74
+ORD-20219,2023-04-05,East,Consumer,Office Supplies,GBC DocuBind TL300,9,0.1,1139.22
+ORD-20578,2023-04-05,West,Home Office,Technology,Epson WorkForce Printer,4,0.3,828.41
+ORD-21034,2023-04-06,East,Consumer,Technology,Anker USB-C Hub,10,0.2,383.39
+ORD-21007,2023-04-08,East,Home Office,Technology,HP LaserJet 3310,1,0.05,507.64
+ORD-20058,2023-04-08,East,Home Office,Office Supplies,Staples File Folders,10,0.0,110.53
+ORD-21154,2023-04-08,South,Consumer,Technology,Canon imageCLASS 2200,7,0.1,4796.74
+ORD-21323,2023-04-11,South,Corporate,Technology,Anker USB-C Hub,8,0.15,338.89
+ORD-20432,2023-04-11,East,Home Office,Technology,Logitech Wireless Mouse,1,0.3,27.83
+ORD-20681,2023-04-11,West,Home Office,Technology,Cisco TelePresence System,8,0.1,7375.33
+ORD-20537,2023-04-12,South,Home Office,Technology,Brother Laser Printer,9,0.0,2744.88
+ORD-20678,2023-04-13,East,Corporate,Office Supplies,Fellowes PB500 Binding Machine,9,0.2,1499.22
+ORD-20770,2023-04-13,East,Home Office,Technology,Anker USB-C Hub,9,0.3,304.38
+ORD-20621,2023-04-14,Central,Home Office,Office Supplies,Staples File Folders,2,0.05,22.3
+ORD-20570,2023-04-16,South,Consumer,Technology,Canon imageCLASS 2200,2,0.15,1543.36
+ORD-20650,2023-04-16,West,Corporate,Office Supplies,Desk Organizer Set,9,0.3,159.12
+ORD-21335,2023-04-16,Central,Consumer,Technology,Samsung Galaxy Phone,6,0.0,4088.28
+ORD-21260,2023-04-16,Central,Corporate,Furniture,Sauder Bookcase,3,0.0,502.24
+ORD-20940,2023-04-17,East,Corporate,Furniture,Office Star Ergonomic Chair,7,0.2,1316.73
+ORD-20672,2023-04-17,Central,Home Office,Technology,Canon imageCLASS 2200,8,0.0,6609.6
+ORD-21011,2023-04-18,East,Home Office,Technology,Logitech Wireless Mouse,10,0.0,344.81
+ORD-20417,2023-04-19,West,Consumer,Technology,Brother Laser Printer,4,0.05,1112.08
+ORD-20515,2023-04-20,Central,Consumer,Technology,Anker USB-C Hub,6,0.0,282.8
+ORD-20279,2023-04-21,East,Consumer,Technology,Samsung Galaxy Phone,9,0.0,4850.0
+ORD-21414,2023-04-21,East,Home Office,Technology,Epson WorkForce Printer,9,0.0,2454.36
+ORD-20990,2023-04-23,Central,Corporate,Technology,HP LaserJet 3310,1,0.2,372.65
+ORD-21090,2023-04-24,South,Home Office,Office Supplies,GBC DocuBind TL300,8,0.15,947.09
+ORD-20694,2023-04-24,Central,Home Office,Office Supplies,Desk Organizer Set,3,0.0,69.08
+ORD-20778,2023-04-24,Central,Home Office,Technology,Brother Laser Printer,9,0.0,2374.17
+ORD-20046,2023-04-24,Central,Corporate,Office Supplies,Fellowes PB500 Binding Machine,6,0.0,1008.77
+ORD-21039,2023-04-25,East,Consumer,Technology,Epson WorkForce Printer,1,0.3,155.62
+ORD-20870,2023-04-26,Central,Consumer,Technology,Cisco TelePresence System,3,0.1,3239.83
+ORD-20522,2023-04-26,East,Consumer,Furniture,Global Troy Executive Leather Chair,2,0.0,776.45
+ORD-21463,2023-04-26,South,Consumer,Office Supplies,Desk Organizer Set,8,0.1,214.13
+ORD-20687,2023-04-27,East,Consumer,Technology,HP LaserJet 3310,7,0.0,4056.05
+ORD-20538,2023-04-27,South,Corporate,Office Supplies,Desk Organizer Set,7,0.15,172.63
+ORD-20347,2023-04-28,South,Corporate,Technology,HP LaserJet 3310,8,0.1,3772.4
+ORD-20163,2023-04-28,West,Home Office,Technology,Logitech Wireless Mouse,1,0.1,32.23
+ORD-20992,2023-04-30,Central,Corporate,Office Supplies,Avery Durable Binder,6,0.0,103.98
+ORD-20415,2023-04-30,West,Consumer,Office Supplies,Fellowes PB500 Binding Machine,2,0.0,422.75
+ORD-20518,2023-05-02,West,Corporate,Furniture,Bush Advantage Collection Table,6,0.1,2178.63
+ORD-20666,2023-05-03,Central,Consumer,Office Supplies,Desk Organizer Set,2,0.0,47.33
+ORD-20365,2023-05-03,West,Corporate,Furniture,HON 5400 Series Task Chairs,1,0.05,265.38
+ORD-21425,2023-05-04,South,Consumer,Technology,Cisco TelePresence System,1,0.15,1028.0
+ORD-21065,2023-05-06,Central,Home Office,Office Supplies,Desk Organizer Set,6,0.2,129.13
+ORD-20962,2023-05-06,East,Corporate,Office Supplies,Avery Durable Binder,9,0.2,113.91
+ORD-20809,2023-05-07,South,Consumer,Office Supplies,Wilson Jones Legal Size Ring Binders,10,0.15,164.21
+ORD-21020,2023-05-07,South,Home Office,Furniture,Global Troy Executive Leather Chair,1,0.1,304.23
+ORD-21357,2023-05-07,West,Consumer,Technology,HP LaserJet 3310,5,0.0,2948.79
+ORD-21047,2023-05-08,East,Consumer,Furniture,Bush Advantage Collection Table,5,0.0,2052.52
+ORD-21380,2023-05-08,South,Corporate,Technology,Anker USB-C Hub,3,0.1,132.09
+ORD-20182,2023-05-08,West,Consumer,Technology,Logitech Wireless Mouse,10,0.05,381.83
+ORD-20787,2023-05-08,West,Consumer,Technology,Brother Laser Printer,3,0.0,877.63
+ORD-21207,2023-05-09,West,Home Office,Office Supplies,Staples File Folders,7,0.05,81.14
+ORD-20344,2023-05-10,South,Consumer,Technology,Samsung Galaxy Phone,8,0.1,4797.19
+ORD-20484,2023-05-10,Central,Consumer,Office Supplies,Desk Organizer Set,6,0.15,117.82
+ORD-20800,2023-05-10,West,Corporate,Office Supplies,Fellowes PB500 Binding Machine,4,0.0,657.19
+ORD-20906,2023-05-12,East,Consumer,Office Supplies,Staples File Folders,3,0.15,31.07
+ORD-21473,2023-05-12,East,Home Office,Office Supplies,Desk Organizer Set,8,0.05,215.05
+ORD-20319,2023-05-12,Central,Corporate,Furniture,Global Troy Executive Leather Chair,9,0.0,3066.27
+ORD-20922,2023-05-13,South,Corporate,Furniture,Sauder Bookcase,9,0.1,1376.44
+ORD-21127,2023-05-13,Central,Consumer,Technology,Samsung Galaxy Phone,6,0.3,2419.24
+ORD-21272,2023-05-13,West,Home Office,Office Supplies,Staples File Folders,2,0.1,20.78
+ORD-20558,2023-05-14,East,Consumer,Technology,Anker USB-C Hub,4,0.0,173.49
+ORD-21224,2023-05-17,Central,Home Office,Technology,HP LaserJet 3310,8,0.0,4861.12
+ORD-21422,2023-05-17,West,Corporate,Office Supplies,Avery Durable Binder,5,0.05,92.14
+ORD-21172,2023-05-17,South,Consumer,Furniture,Office Star Ergonomic Chair,4,0.0,726.63
+ORD-20252,2023-05-18,Central,Consumer,Technology,HP LaserJet 3310,1,0.15,502.11
+ORD-20272,2023-05-18,South,Home Office,Technology,Canon imageCLASS 2200,3,0.3,1597.53
+ORD-21432,2023-05-19,South,Corporate,Technology,Cisco TelePresence System,4,0.05,4723.2
+ORD-20186,2023-05-19,East,Corporate,Technology,Epson WorkForce Printer,8,0.0,2062.37
+ORD-20222,2023-05-20,South,Consumer,Technology,Epson WorkForce Printer,6,0.2,1222.47
+ORD-21245,2023-05-20,East,Corporate,Technology,Epson WorkForce Printer,10,0.2,2370.56
+ORD-21169,2023-05-20,East,Corporate,Office Supplies,Fellowes PB500 Binding Machine,1,0.15,151.57
+ORD-20399,2023-05-20,Central,Consumer,Office Supplies,Smead Hanging File Folder,10,0.3,93.53
+ORD-21081,2023-05-21,East,Home Office,Office Supplies,Avery Durable Binder,9,0.15,153.09
+ORD-21098,2023-05-22,Central,Home Office,Furniture,Sauder Bookcase,5,0.3,602.17
+ORD-20361,2023-05-23,South,Corporate,Technology,HP LaserJet 3310,10,0.1,4655.14
+ORD-21498,2023-05-25,South,Consumer,Technology,Brother Laser Printer,8,0.0,2479.02
+ORD-20127,2023-05-28,South,Home Office,Office Supplies,Wilson Jones Legal Size Ring Binders,2,0.0,43.78
+ORD-20764,2023-05-28,East,Consumer,Technology,Cisco TelePresence System,1,0.2,839.45
+ORD-20647,2023-05-28,East,Corporate,Office Supplies,Staples File Folders,4,0.0,43.78
+ORD-20032,2023-05-28,West,Corporate,Technology,Brother Laser Printer,5,0.15,1280.2
+ORD-20052,2023-05-29,West,Corporate,Office Supplies,Desk Organizer Set,9,0.1,200.94
+ORD-21248,2023-05-31,Central,Consumer,Technology,Epson WorkForce Printer,4,0.15,923.88
+ORD-20986,2023-05-31,South,Corporate,Technology,Anker USB-C Hub,1,0.05,44.55
+ORD-20005,2023-05-31,South,Corporate,Furniture,HON 5400 Series Task Chairs,7,0.0,1724.42
+ORD-20387,2023-05-31,West,Home Office,Technology,HP LaserJet 3310,9,0.3,3738.73
+ORD-20439,2023-06-01,East,Consumer,Office Supplies,GBC DocuBind TL300,10,0.3,966.29
+ORD-21284,2023-06-01,East,Consumer,Technology,HP LaserJet 3310,4,0.2,1944.8
+ORD-20953,2023-06-02,South,Consumer,Technology,Canon imageCLASS 2200,1,0.1,776.33
+ORD-21376,2023-06-02,Central,Consumer,Technology,Cisco TelePresence System,7,0.05,7812.71
+ORD-21128,2023-06-04,East,Home Office,Furniture,HON 5400 Series Task Chairs,8,0.15,1766.68
+ORD-20363,2023-06-05,West,Home Office,Technology,Brother Laser Printer,4,0.15,906.36
+ORD-21212,2023-06-07,South,Home Office,Furniture,Office Star Ergonomic Chair,5,0.05,910.08
+ORD-21133,2023-06-07,South,Home Office,Technology,Canon imageCLASS 2200,2,0.2,1480.68
+ORD-20523,2023-06-07,South,Corporate,Technology,Epson WorkForce Printer,9,0.3,1421.54
+ORD-21278,2023-06-07,Central,Consumer,Office Supplies,Avery Durable Binder,5,0.1,75.57
+ORD-20216,2023-06-08,West,Consumer,Office Supplies,Staples File Folders,9,0.0,114.7
+ORD-20850,2023-06-09,South,Consumer,Technology,Anker USB-C Hub,6,0.0,307.13
+ORD-20236,2023-06-10,West,Consumer,Furniture,Office Star Ergonomic Chair,8,0.0,1706.78
+ORD-20576,2023-06-10,West,Corporate,Office Supplies,Wilson Jones Legal Size Ring Binders,6,0.0,115.84
+ORD-20450,2023-06-11,East,Home Office,Furniture,Office Star Ergonomic Chair,9,0.05,1537.87
+ORD-21060,2023-06-12,South,Consumer,Office Supplies,Staples File Folders,2,0.3,14.29
+ORD-20571,2023-06-14,West,Corporate,Technology,Cisco TelePresence System,5,0.0,5882.98
+ORD-20294,2023-06-15,South,Consumer,Technology,Anker USB-C Hub,4,0.0,182.0
+ORD-20604,2023-06-15,East,Home Office,Furniture,Office Star Ergonomic Chair,8,0.0,1580.67
+ORD-20181,2023-06-15,West,Home Office,Technology,Brother Laser Printer,2,0.1,510.7
+ORD-20059,2023-06-16,East,Home Office,Technology,Logitech Wireless Mouse,3,0.1,91.57
+ORD-21493,2023-06-18,South,Corporate,Office Supplies,Smead Hanging File Folder,7,0.2,84.53
+ORD-20299,2023-06-19,East,Corporate,Furniture,HON 5400 Series Task Chairs,5,0.0,1254.16
+ORD-21022,2023-06-19,East,Consumer,Office Supplies,Desk Organizer Set,7,0.2,134.5
+ORD-20584,2023-06-21,Central,Consumer,Furniture,HON 5400 Series Task Chairs,4,0.0,1076.67
+ORD-20469,2023-06-21,South,Corporate,Office Supplies,Avery Durable Binder,9,0.3,125.0
+ORD-20290,2023-06-21,South,Corporate,Technology,HP LaserJet 3310,7,0.15,3686.14
+ORD-21340,2023-06-21,West,Corporate,Technology,HP LaserJet 3310,6,0.15,2404.45
+ORD-20137,2023-06-21,West,Home Office,Furniture,Office Star Ergonomic Chair,4,0.2,610.97
+ORD-20600,2023-06-22,South,Home Office,Furniture,Global Troy Executive Leather Chair,2,0.1,658.45
+ORD-20602,2023-06-23,South,Home Office,Technology,Brother Laser Printer,10,0.0,3339.11
+ORD-21231,2023-06-24,Central,Corporate,Technology,Cisco TelePresence System,6,0.0,6513.88
+ORD-21089,2023-06-24,South,Consumer,Furniture,Sauder Bookcase,9,0.1,1445.62
+ORD-20743,2023-06-24,Central,Home Office,Technology,Logitech Wireless Mouse,7,0.1,209.74
+ORD-20706,2023-06-25,East,Consumer,Office Supplies,GBC DocuBind TL300,10,0.3,1008.0
+ORD-20309,2023-06-25,West,Consumer,Office Supplies,GBC DocuBind TL300,8,0.1,986.62
+ORD-21045,2023-06-26,South,Home Office,Office Supplies,GBC DocuBind TL300,5,0.15,610.74
+ORD-20467,2023-06-26,West,Corporate,Office Supplies,Staples File Folders,10,0.0,108.31
+ORD-21481,2023-06-26,West,Corporate,Technology,Epson WorkForce Printer,7,0.0,2031.23
+ORD-21038,2023-06-27,Central,Home Office,Technology,Samsung Galaxy Phone,3,0.1,1519.78
+ORD-20804,2023-06-28,West,Consumer,Furniture,Office Star Ergonomic Chair,4,0.15,733.95
+ORD-20444,2023-06-29,East,Home Office,Furniture,Office Star Ergonomic Chair,9,0.05,1682.42
+ORD-20802,2023-06-29,Central,Home Office,Technology,Cisco TelePresence System,3,0.05,3092.64
+ORD-20959,2023-06-29,West,Home Office,Furniture,Global Troy Executive Leather Chair,9,0.3,2402.6
+ORD-20456,2023-06-29,Central,Corporate,Office Supplies,Fellowes PB500 Binding Machine,3,0.3,424.95
+ORD-20044,2023-06-30,East,Corporate,Furniture,Sauder Bookcase,8,0.0,1596.77
+ORD-20220,2023-07-01,East,Home Office,Furniture,Global Troy Executive Leather Chair,6,0.0,2244.71
+ORD-20776,2023-07-02,South,Corporate,Furniture,Global Troy Executive Leather Chair,7,0.2,2246.44
+ORD-21287,2023-07-02,South,Home Office,Furniture,Office Star Ergonomic Chair,9,0.0,1867.06
+ORD-20823,2023-07-02,West,Corporate,Office Supplies,Avery Durable Binder,3,0.15,47.79
+ORD-20880,2023-07-03,East,Corporate,Furniture,Bush Advantage Collection Table,3,0.0,1074.18
+ORD-20529,2023-07-03,Central,Home Office,Technology,Samsung Galaxy Phone,8,0.2,4081.56
+ORD-20699,2023-07-03,Central,Corporate,Office Supplies,Desk Organizer Set,7,0.3,112.95
+ORD-20436,2023-07-05,South,Consumer,Office Supplies,Smead Hanging File Folder,10,0.15,131.64
+ORD-20251,2023-07-06,Central,Home Office,Furniture,HON 5400 Series Task Chairs,9,0.05,2578.18
+ORD-20010,2023-07-07,Central,Consumer,Technology,Canon imageCLASS 2200,8,0.1,6031.51
+ORD-20841,2023-07-07,West,Home Office,Office Supplies,GBC DocuBind TL300,8,0.15,844.01
+ORD-20683,2023-07-08,South,Consumer,Office Supplies,GBC DocuBind TL300,6,0.2,616.95
+ORD-20368,2023-07-11,West,Home Office,Office Supplies,Fellowes PB500 Binding Machine,2,0.0,358.25
+ORD-20697,2023-07-11,West,Consumer,Office Supplies,Desk Organizer Set,9,0.0,251.56
+ORD-20143,2023-07-12,East,Home Office,Technology,Brother Laser Printer,3,0.2,668.33
+ORD-20638,2023-07-13,Central,Home Office,Office Supplies,Avery Durable Binder,7,0.05,122.39
+ORD-21454,2023-07-14,Central,Consumer,Technology,Epson WorkForce Printer,3,0.1,770.85
+ORD-21140,2023-07-15,Central,Home Office,Technology,Logitech Wireless Mouse,9,0.3,226.47
+ORD-20686,2023-07-17,West,Consumer,Technology,Cisco TelePresence System,3,0.0,3477.41
+ORD-21326,2023-07-17,South,Consumer,Office Supplies,Wilson Jones Legal Size Ring Binders,3,0.05,67.11
+ORD-20105,2023-07-18,West,Corporate,Office Supplies,Fellowes PB500 Binding Machine,4,0.3,454.65
+ORD-20705,2023-07-19,East,Consumer,Furniture,Global Troy Executive Leather Chair,6,0.15,2020.55
+ORD-20888,2023-07-19,Central,Corporate,Furniture,Sauder Bookcase,2,0.2,295.21
+ORD-21443,2023-07-20,East,Home Office,Technology,Brother Laser Printer,5,0.2,1360.6
+ORD-20341,2023-07-20,Central,Consumer,Furniture,Bush Advantage Collection Table,10,0.0,3733.37
+ORD-20256,2023-07-21,South,Home Office,Furniture,Global Troy Executive Leather Chair,5,0.15,1499.61
+ORD-20905,2023-07-21,South,Home Office,Furniture,Bush Advantage Collection Table,8,0.2,3001.15
+ORD-20831,2023-07-21,Central,Consumer,Technology,Samsung Galaxy Phone,7,0.0,4972.94
+ORD-21155,2023-07-22,Central,Corporate,Technology,HP LaserJet 3310,10,0.3,3383.66
+ORD-20989,2023-07-22,East,Consumer,Furniture,Global Troy Executive Leather Chair,5,0.05,1554.19
+ORD-21372,2023-07-22,Central,Corporate,Furniture,Bush Advantage Collection Table,4,0.05,1505.0
+ORD-21111,2023-07-22,South,Consumer,Office Supplies,Staples File Folders,7,0.3,61.58
+ORD-20866,2023-07-23,South,Consumer,Technology,Epson WorkForce Printer,8,0.3,1620.55
+ORD-20634,2023-07-23,South,Corporate,Office Supplies,Avery Durable Binder,5,0.2,70.77
+ORD-20894,2023-07-24,Central,Consumer,Furniture,Sauder Bookcase,2,0.1,351.38
+ORD-20023,2023-07-26,Central,Corporate,Technology,Samsung Galaxy Phone,8,0.2,3824.26
+ORD-21355,2023-07-26,South,Corporate,Office Supplies,Desk Organizer Set,2,0.1,46.7
+ORD-20428,2023-07-26,Central,Corporate,Furniture,Bush Advantage Collection Table,6,0.0,2752.8
+ORD-21004,2023-07-28,East,Consumer,Technology,HP LaserJet 3310,1,0.1,449.81
+ORD-20792,2023-07-29,West,Consumer,Office Supplies,GBC DocuBind TL300,3,0.0,389.62
+ORD-21303,2023-07-29,East,Corporate,Office Supplies,Desk Organizer Set,10,0.1,235.63
+ORD-21102,2023-07-29,Central,Home Office,Technology,HP LaserJet 3310,2,0.15,926.82
+ORD-21352,2023-07-29,South,Consumer,Office Supplies,GBC DocuBind TL300,2,0.05,276.57
+ORD-21218,2023-07-30,East,Corporate,Office Supplies,Avery Durable Binder,5,0.3,55.79
+ORD-20033,2023-07-31,West,Home Office,Office Supplies,Wilson Jones Legal Size Ring Binders,5,0.0,104.93
+ORD-20723,2023-07-31,Central,Corporate,Furniture,Global Troy Executive Leather Chair,5,0.2,1328.72
+ORD-20237,2023-08-01,East,Consumer,Technology,Canon imageCLASS 2200,2,0.3,1040.3
+ORD-20932,2023-08-02,West,Corporate,Furniture,Global Troy Executive Leather Chair,1,0.0,337.24
+ORD-21497,2023-08-02,East,Consumer,Technology,Logitech Wireless Mouse,2,0.0,73.71
+ORD-20852,2023-08-02,West,Corporate,Technology,Samsung Galaxy Phone,5,0.0,3212.32
+ORD-21099,2023-08-02,West,Corporate,Office Supplies,Smead Hanging File Folder,3,0.05,41.66
+ORD-20366,2023-08-03,Central,Consumer,Office Supplies,Wilson Jones Legal Size Ring Binders,6,0.2,119.79
+ORD-21235,2023-08-04,West,Corporate,Office Supplies,Staples File Folders,4,0.0,44.14
+ORD-20506,2023-08-05,East,Corporate,Technology,Brother Laser Printer,8,0.0,2646.25
+ORD-20977,2023-08-05,West,Consumer,Technology,Epson WorkForce Printer,5,0.05,1068.96
+ORD-20166,2023-08-05,West,Home Office,Technology,Samsung Galaxy Phone,8,0.0,4459.42
+ORD-20596,2023-08-07,South,Home Office,Office Supplies,Staples File Folders,7,0.2,73.4
+ORD-20737,2023-08-07,Central,Corporate,Technology,Cisco TelePresence System,1,0.3,920.48
+ORD-20972,2023-08-08,Central,Home Office,Technology,Brother Laser Printer,4,0.05,1176.24
+ORD-20923,2023-08-08,West,Corporate,Technology,Cisco TelePresence System,6,0.0,7374.0
+ORD-20580,2023-08-09,West,Consumer,Furniture,HON 5400 Series Task Chairs,8,0.2,1783.4
+ORD-20007,2023-08-09,South,Consumer,Furniture,Global Troy Executive Leather Chair,7,0.0,2246.74
+ORD-20332,2023-08-09,West,Home Office,Office Supplies,Avery Durable Binder,6,0.0,106.93
+ORD-20654,2023-08-10,South,Consumer,Technology,Anker USB-C Hub,1,0.0,52.25
+ORD-20816,2023-08-13,West,Corporate,Office Supplies,Fellowes PB500 Binding Machine,7,0.05,1429.25
+ORD-20648,2023-08-13,South,Corporate,Office Supplies,Smead Hanging File Folder,7,0.2,74.77
+ORD-20960,2023-08-15,Central,Corporate,Office Supplies,Staples File Folders,4,0.1,44.22
+ORD-20229,2023-08-15,West,Corporate,Furniture,Bush Advantage Collection Table,2,0.15,794.1
+ORD-20508,2023-08-15,West,Consumer,Technology,Cisco TelePresence System,9,0.05,11177.28
+ORD-20086,2023-08-16,South,Home Office,Office Supplies,Desk Organizer Set,3,0.3,53.19
+ORD-20717,2023-08-16,Central,Corporate,Office Supplies,Wilson Jones Legal Size Ring Binders,5,0.05,116.41
+ORD-20750,2023-08-17,East,Corporate,Office Supplies,GBC DocuBind TL300,1,0.3,81.47
+ORD-20102,2023-08-18,East,Home Office,Furniture,Sauder Bookcase,2,0.15,297.36
+ORD-21461,2023-08-19,East,Consumer,Technology,HP LaserJet 3310,6,0.0,3400.36
+ORD-20740,2023-08-19,West,Home Office,Furniture,Bush Advantage Collection Table,6,0.05,2651.73
+ORD-20547,2023-08-20,South,Home Office,Technology,Logitech Wireless Mouse,9,0.3,239.2
+ORD-20661,2023-08-20,Central,Consumer,Office Supplies,Avery Durable Binder,2,0.2,28.8
+ORD-20898,2023-08-21,West,Home Office,Office Supplies,GBC DocuBind TL300,9,0.0,1002.57
+ORD-21331,2023-08-21,South,Consumer,Furniture,Bush Advantage Collection Table,8,0.0,3791.4
+ORD-21018,2023-08-21,South,Corporate,Office Supplies,Fellowes PB500 Binding Machine,1,0.2,140.56
+ORD-21346,2023-08-21,West,Home Office,Technology,Samsung Galaxy Phone,5,0.0,3430.58
+ORD-21281,2023-08-22,Central,Corporate,Furniture,Bush Advantage Collection Table,4,0.0,1445.39
+ORD-20660,2023-08-22,West,Corporate,Office Supplies,GBC DocuBind TL300,5,0.0,587.2
+ORD-20349,2023-08-24,East,Home Office,Furniture,HON 5400 Series Task Chairs,7,0.15,1423.78
+ORD-20124,2023-08-24,South,Home Office,Technology,Cisco TelePresence System,2,0.0,2083.44
+ORD-20155,2023-08-24,Central,Consumer,Technology,Canon imageCLASS 2200,5,0.05,3992.58
+ORD-20608,2023-08-25,South,Corporate,Office Supplies,Avery Durable Binder,3,0.0,58.03
+ORD-20481,2023-08-26,East,Corporate,Technology,HP LaserJet 3310,7,0.3,2555.42
+ORD-20337,2023-08-29,East,Home Office,Office Supplies,Staples File Folders,7,0.0,88.81
+ORD-21091,2023-08-30,Central,Corporate,Office Supplies,Avery Durable Binder,10,0.2,130.52
+ORD-20401,2023-08-30,Central,Home Office,Technology,Canon imageCLASS 2200,6,0.0,5471.64
+ORD-20403,2023-08-30,West,Home Office,Technology,HP LaserJet 3310,5,0.15,2074.18
+ORD-20358,2023-08-31,Central,Home Office,Office Supplies,Wilson Jones Legal Size Ring Binders,8,0.15,171.89
+ORD-20721,2023-08-31,Central,Consumer,Furniture,HON 5400 Series Task Chairs,3,0.2,657.95
+ORD-20954,2023-09-01,West,Corporate,Office Supplies,Desk Organizer Set,4,0.05,101.46
+ORD-20909,2023-09-02,South,Consumer,Technology,Cisco TelePresence System,1,0.2,1069.07
+ORD-20994,2023-09-02,Central,Consumer,Technology,Logitech Wireless Mouse,9,0.05,335.2
+ORD-20080,2023-09-02,West,Corporate,Technology,Logitech Wireless Mouse,8,0.3,170.66
+ORD-20746,2023-09-02,East,Consumer,Technology,Canon imageCLASS 2200,8,0.15,6421.86
+ORD-20684,2023-09-03,Central,Corporate,Furniture,Global Troy Executive Leather Chair,3,0.05,948.34
+ORD-20641,2023-09-03,South,Home Office,Office Supplies,Wilson Jones Legal Size Ring Binders,8,0.0,183.47
+ORD-21041,2023-09-04,Central,Consumer,Furniture,Office Star Ergonomic Chair,2,0.1,321.47
+ORD-21500,2023-09-04,West,Home Office,Furniture,Bush Advantage Collection Table,7,0.05,3094.36
+ORD-20355,2023-09-04,Central,Home Office,Office Supplies,Wilson Jones Legal Size Ring Binders,7,0.15,117.84
+ORD-21477,2023-09-04,South,Corporate,Office Supplies,Wilson Jones Legal Size Ring Binders,4,0.3,53.85
+ORD-20817,2023-09-05,Central,Home Office,Office Supplies,GBC DocuBind TL300,4,0.0,471.84
+ORD-21026,2023-09-05,East,Consumer,Technology,Samsung Galaxy Phone,2,0.2,844.16
+ORD-20614,2023-09-06,West,Consumer,Furniture,Sauder Bookcase,7,0.0,1142.04
+ORD-20677,2023-09-08,Central,Home Office,Technology,HP LaserJet 3310,10,0.3,3231.5
+ORD-21391,2023-09-08,South,Consumer,Technology,Samsung Galaxy Phone,3,0.3,1310.66
+ORD-21480,2023-09-09,West,Consumer,Office Supplies,Smead Hanging File Folder,8,0.3,72.09
+ORD-20597,2023-09-09,East,Corporate,Furniture,Office Star Ergonomic Chair,9,0.0,1984.29
+ORD-21494,2023-09-10,West,Home Office,Technology,Anker USB-C Hub,3,0.1,142.88
+ORD-20765,2023-09-13,East,Consumer,Technology,Samsung Galaxy Phone,3,0.05,1924.64
+ORD-20919,2023-09-14,East,Consumer,Technology,Cisco TelePresence System,8,0.15,7488.22
+ORD-21401,2023-09-14,West,Corporate,Technology,Cisco TelePresence System,6,0.0,6433.17
+ORD-21121,2023-09-15,East,Consumer,Technology,Logitech Wireless Mouse,5,0.3,133.46
+ORD-20161,2023-09-15,South,Corporate,Office Supplies,Fellowes PB500 Binding Machine,9,0.15,1543.41
+ORD-20601,2023-09-16,West,Home Office,Technology,Samsung Galaxy Phone,3,0.15,1689.18
+ORD-20241,2023-09-16,South,Corporate,Furniture,Global Troy Executive Leather Chair,3,0.1,851.89
+ORD-20122,2023-09-16,Central,Home Office,Technology,Anker USB-C Hub,5,0.2,185.22
+ORD-21258,2023-09-18,Central,Consumer,Furniture,Bush Advantage Collection Table,3,0.0,1416.53
+ORD-20837,2023-09-19,West,Corporate,Office Supplies,Desk Organizer Set,4,0.0,107.93
+ORD-21308,2023-09-20,South,Corporate,Technology,Samsung Galaxy Phone,8,0.1,4452.25
+ORD-21310,2023-09-20,South,Corporate,Office Supplies,Desk Organizer Set,5,0.3,78.57
+ORD-20264,2023-09-20,South,Consumer,Office Supplies,Wilson Jones Legal Size Ring Binders,9,0.3,148.63
+ORD-20876,2023-09-22,East,Corporate,Office Supplies,Desk Organizer Set,10,0.1,217.07
+ORD-21267,2023-09-23,East,Corporate,Technology,Brother Laser Printer,6,0.3,1253.15
+ORD-20472,2023-09-23,East,Home Office,Technology,Epson WorkForce Printer,2,0.3,318.82
+ORD-20611,2023-09-23,West,Corporate,Furniture,Sauder Bookcase,2,0.0,371.5
+ORD-20153,2023-09-23,East,Home Office,Office Supplies,Smead Hanging File Folder,1,0.15,13.93
+ORD-21223,2023-09-23,West,Consumer,Technology,Brother Laser Printer,8,0.1,2272.89
+ORD-20510,2023-09-24,South,Home Office,Furniture,Office Star Ergonomic Chair,6,0.0,1428.38
+ORD-20160,2023-09-26,Central,Home Office,Office Supplies,Staples File Folders,10,0.15,94.04
+ORD-20255,2023-09-28,South,Consumer,Furniture,Bush Advantage Collection Table,1,0.0,397.44
+ORD-20238,2023-09-28,West,Consumer,Technology,Anker USB-C Hub,5,0.1,228.93
+ORD-21112,2023-09-30,Central,Home Office,Furniture,Sauder Bookcase,5,0.0,917.06
+ORD-21105,2023-10-01,Central,Consumer,Office Supplies,Staples File Folders,3,0.0,38.67
+ORD-20071,2023-10-01,South,Corporate,Furniture,Sauder Bookcase,10,0.3,1189.88
+ORD-20196,2023-10-01,West,Home Office,Technology,Anker USB-C Hub,3,0.1,131.57
+ORD-21296,2023-10-01,Central,Corporate,Furniture,Sauder Bookcase,10,0.0,1603.55
+ORD-21353,2023-10-02,East,Home Office,Technology,Samsung Galaxy Phone,7,0.05,4320.95
+ORD-21419,2023-10-03,East,Home Office,Technology,Samsung Galaxy Phone,9,0.3,3738.38
+ORD-20123,2023-10-03,Central,Home Office,Office Supplies,Staples File Folders,7,0.05,67.91
+ORD-20636,2023-10-03,Central,Consumer,Office Supplies,Wilson Jones Legal Size Ring Binders,6,0.0,122.22
+ORD-20572,2023-10-04,Central,Home Office,Furniture,Bush Advantage Collection Table,9,0.05,3151.4
+ORD-20562,2023-10-05,South,Home Office,Office Supplies,Staples File Folders,10,0.15,106.12
+ORD-20703,2023-10-05,Central,Consumer,Furniture,Global Troy Executive Leather Chair,2,0.3,508.78
+ORD-21466,2023-10-05,East,Corporate,Technology,HP LaserJet 3310,7,0.0,3574.21
+ORD-21295,2023-10-06,East,Home Office,Furniture,HON 5400 Series Task Chairs,5,0.2,997.02
+ORD-20935,2023-10-06,West,Home Office,Technology,Canon imageCLASS 2200,3,0.2,1790.82
+ORD-20038,2023-10-07,South,Consumer,Furniture,Sauder Bookcase,4,0.0,691.09
+ORD-20796,2023-10-07,West,Home Office,Office Supplies,Smead Hanging File Folder,10,0.3,110.79
+ORD-21024,2023-10-08,South,Corporate,Office Supplies,Desk Organizer Set,1,0.2,21.45
+ORD-20404,2023-10-09,Central,Corporate,Technology,Samsung Galaxy Phone,9,0.3,4257.52
+ORD-20848,2023-10-10,East,Corporate,Office Supplies,GBC DocuBind TL300,5,0.15,492.27
+ORD-20239,2023-10-12,West,Home Office,Technology,Samsung Galaxy Phone,7,0.05,4648.4
+ORD-20262,2023-10-12,South,Consumer,Office Supplies,Desk Organizer Set,10,0.0,256.18
+ORD-20295,2023-10-12,Central,Corporate,Office Supplies,Wilson Jones Legal Size Ring Binders,3,0.15,50.41
+ORD-20327,2023-10-12,South,Corporate,Technology,Epson WorkForce Printer,3,0.05,641.18
+ORD-20173,2023-10-13,East,Consumer,Furniture,Sauder Bookcase,2,0.1,298.48
+ORD-20352,2023-10-14,East,Home Office,Office Supplies,Fellowes PB500 Binding Machine,5,0.3,648.75
+ORD-21017,2023-10-14,Central,Home Office,Technology,Samsung Galaxy Phone,9,0.0,6059.15
+ORD-20077,2023-10-14,Central,Consumer,Furniture,Sauder Bookcase,2,0.05,344.22
+ORD-20095,2023-10-15,South,Corporate,Technology,Epson WorkForce Printer,2,0.15,439.28
+ORD-20757,2023-10-15,West,Home Office,Technology,Cisco TelePresence System,3,0.2,2729.6
+ORD-20108,2023-10-17,West,Corporate,Technology,Cisco TelePresence System,4,0.15,3973.45
+ORD-20722,2023-10-17,East,Corporate,Furniture,HON 5400 Series Task Chairs,10,0.05,2450.97
+ORD-20958,2023-10-17,Central,Corporate,Technology,Epson WorkForce Printer,9,0.05,2341.43
+ORD-20701,2023-10-18,West,Corporate,Office Supplies,Wilson Jones Legal Size Ring Binders,3,0.3,41.54
+ORD-20230,2023-10-20,East,Home Office,Technology,Cisco TelePresence System,5,0.1,4830.75
+ORD-21014,2023-10-20,Central,Home Office,Office Supplies,Fellowes PB500 Binding Machine,4,0.05,623.31
+ORD-20110,2023-10-21,Central,Consumer,Technology,Anker USB-C Hub,5,0.0,212.47
+ORD-21242,2023-10-21,South,Home Office,Technology,Anker USB-C Hub,8,0.0,411.7
+ORD-21031,2023-10-22,South,Corporate,Office Supplies,Desk Organizer Set,6,0.0,175.92
+ORD-20273,2023-10-23,Central,Consumer,Technology,Anker USB-C Hub,10,0.15,466.83
+ORD-20440,2023-10-23,South,Corporate,Office Supplies,Desk Organizer Set,9,0.2,182.51
+ORD-20260,2023-10-24,South,Corporate,Office Supplies,Avery Durable Binder,9,0.2,145.21
+ORD-20275,2023-10-24,West,Consumer,Furniture,Global Troy Executive Leather Chair,5,0.3,1169.66
+ORD-21162,2023-10-25,Central,Corporate,Office Supplies,Desk Organizer Set,4,0.1,97.22
+ORD-21293,2023-10-29,East,Consumer,Technology,Cisco TelePresence System,8,0.3,5850.55
+ORD-20235,2023-10-30,West,Home Office,Furniture,HON 5400 Series Task Chairs,9,0.1,2011.57
+ORD-21366,2023-10-30,South,Home Office,Office Supplies,GBC DocuBind TL300,3,0.05,366.56
+ORD-20771,2023-10-31,East,Consumer,Office Supplies,Fellowes PB500 Binding Machine,1,0.15,162.23
+ORD-20204,2023-11-02,Central,Home Office,Office Supplies,Smead Hanging File Folder,5,0.0,66.39
+ORD-20248,2023-11-04,West,Consumer,Technology,Cisco TelePresence System,4,0.2,4276.59
+ORD-20429,2023-11-04,South,Home Office,Office Supplies,Avery Durable Binder,8,0.3,105.81
+ORD-20266,2023-11-04,West,Corporate,Office Supplies,GBC DocuBind TL300,5,0.3,390.91
+ORD-21320,2023-11-05,East,Consumer,Office Supplies,Fellowes PB500 Binding Machine,1,0.05,180.2
+ORD-20461,2023-11-06,South,Home Office,Office Supplies,Staples File Folders,5,0.2,43.38
+ORD-20658,2023-11-07,South,Home Office,Technology,Brother Laser Printer,4,0.1,1009.91
+ORD-21397,2023-11-07,West,Home Office,Furniture,Bush Advantage Collection Table,7,0.1,2397.52
+ORD-20422,2023-11-07,South,Corporate,Office Supplies,Fellowes PB500 Binding Machine,8,0.3,1054.97
+ORD-21390,2023-11-08,West,Home Office,Technology,Logitech Wireless Mouse,7,0.15,239.1
+ORD-21394,2023-11-08,East,Corporate,Furniture,Bush Advantage Collection Table,9,0.15,3377.2
+ORD-20318,2023-11-09,East,Consumer,Furniture,Office Star Ergonomic Chair,4,0.05,763.72
+ORD-20418,2023-11-09,South,Consumer,Technology,Anker USB-C Hub,9,0.2,355.15
+ORD-20364,2023-11-09,Central,Corporate,Technology,Cisco TelePresence System,10,0.0,10890.15
+ORD-20142,2023-11-12,South,Corporate,Technology,Samsung Galaxy Phone,4,0.05,2215.32
+ORD-21377,2023-11-12,Central,Consumer,Technology,HP LaserJet 3310,7,0.1,3706.13
+ORD-20791,2023-11-12,South,Corporate,Office Supplies,Staples File Folders,8,0.1,75.01
+ORD-20884,2023-11-14,South,Corporate,Furniture,Global Troy Executive Leather Chair,4,0.15,1264.04
+ORD-20067,2023-11-16,Central,Home Office,Furniture,Global Troy Executive Leather Chair,5,0.0,2019.92
+ORD-20085,2023-11-16,East,Home Office,Technology,Brother Laser Printer,8,0.1,2331.74
+ORD-20630,2023-11-18,East,Corporate,Technology,Logitech Wireless Mouse,9,0.1,317.92
+ORD-21378,2023-11-18,East,Consumer,Office Supplies,Smead Hanging File Folder,3,0.3,32.27
+ORD-20927,2023-11-18,South,Consumer,Office Supplies,Fellowes PB500 Binding Machine,1,0.1,168.48
+ORD-20708,2023-11-18,Central,Corporate,Technology,Anker USB-C Hub,3,0.1,111.59
+ORD-20246,2023-11-19,South,Corporate,Furniture,Sauder Bookcase,10,0.15,1491.93
+ORD-20286,2023-11-20,South,Corporate,Office Supplies,Smead Hanging File Folder,10,0.05,154.22
+ORD-20918,2023-11-21,East,Home Office,Technology,Logitech Wireless Mouse,9,0.0,294.04
+ORD-20146,2023-11-22,East,Corporate,Technology,Brother Laser Printer,2,0.1,625.38
+ORD-20566,2023-11-23,West,Corporate,Furniture,HON 5400 Series Task Chairs,2,0.2,456.33
+ORD-20756,2023-11-24,Central,Corporate,Furniture,Global Troy Executive Leather Chair,1,0.2,282.83
+ORD-21452,2023-11-24,South,Corporate,Office Supplies,Smead Hanging File Folder,6,0.05,74.68
+ORD-20552,2023-11-24,Central,Corporate,Technology,Canon imageCLASS 2200,7,0.0,6692.8
+ORD-20748,2023-11-25,West,Corporate,Office Supplies,Avery Durable Binder,9,0.05,149.35
+ORD-20411,2023-11-25,Central,Home Office,Office Supplies,Smead Hanging File Folder,4,0.1,51.94
+ORD-21424,2023-11-25,East,Consumer,Office Supplies,Staples File Folders,9,0.0,111.8
+ORD-20427,2023-11-27,Central,Consumer,Office Supplies,Staples File Folders,9,0.3,64.59
+ORD-20424,2023-11-27,South,Home Office,Furniture,Office Star Ergonomic Chair,8,0.2,1300.9
+ORD-21487,2023-11-27,West,Consumer,Furniture,Global Troy Executive Leather Chair,2,0.15,618.97
+ORD-20607,2023-11-28,Central,Corporate,Furniture,Office Star Ergonomic Chair,4,0.3,529.9
+ORD-20500,2023-11-29,West,Home Office,Office Supplies,Staples File Folders,2,0.15,17.86
+ORD-21048,2023-11-30,West,Corporate,Technology,Logitech Wireless Mouse,2,0.2,50.32
+ORD-20201,2023-12-01,Central,Corporate,Technology,Cisco TelePresence System,1,0.0,1021.07
+ORD-21273,2023-12-02,Central,Corporate,Office Supplies,Wilson Jones Legal Size Ring Binders,5,0.2,87.92
+ORD-21319,2023-12-02,Central,Consumer,Office Supplies,Fellowes PB500 Binding Machine,3,0.0,577.43
+ORD-21061,2023-12-03,West,Home Office,Technology,Logitech Wireless Mouse,6,0.2,179.48
+ORD-20414,2023-12-03,West,Home Office,Technology,Canon imageCLASS 2200,1,0.05,706.94
+ORD-21145,2023-12-05,Central,Corporate,Office Supplies,Wilson Jones Legal Size Ring Binders,10,0.0,223.86
+ORD-20949,2023-12-05,South,Home Office,Office Supplies,Staples File Folders,4,0.0,53.42
+ORD-20780,2023-12-06,South,Corporate,Office Supplies,Staples File Folders,3,0.05,31.34
+ORD-21208,2023-12-06,West,Consumer,Office Supplies,GBC DocuBind TL300,7,0.05,854.54
+ORD-21217,2023-12-07,West,Home Office,Technology,Anker USB-C Hub,10,0.0,454.12
+ORD-20367,2023-12-08,East,Home Office,Technology,Logitech Wireless Mouse,4,0.2,113.45
+ORD-20939,2023-12-09,East,Home Office,Furniture,HON 5400 Series Task Chairs,3,0.1,646.64
+ORD-20423,2023-12-09,West,Home Office,Office Supplies,Desk Organizer Set,9,0.15,205.73
+ORD-20249,2023-12-10,Central,Corporate,Furniture,Office Star Ergonomic Chair,2,0.05,458.65
+ORD-21431,2023-12-10,East,Corporate,Furniture,Office Star Ergonomic Chair,8,0.3,1033.3
+ORD-20631,2023-12-12,West,Corporate,Technology,Logitech Wireless Mouse,10,0.0,317.73
+ORD-20525,2023-12-13,Central,Consumer,Office Supplies,Avery Durable Binder,2,0.15,26.77
+ORD-20228,2023-12-13,South,Corporate,Furniture,Bush Advantage Collection Table,3,0.0,1092.47
+ORD-20947,2023-12-14,East,Consumer,Furniture,Office Star Ergonomic Chair,6,0.2,1113.06
+ORD-21200,2023-12-14,West,Home Office,Technology,HP LaserJet 3310,8,0.2,3163.38
+ORD-20028,2023-12-15,East,Home Office,Technology,HP LaserJet 3310,8,0.2,3678.89
+ORD-20587,2023-12-16,West,Corporate,Office Supplies,Desk Organizer Set,6,0.0,143.56
+ORD-20984,2023-12-16,South,Consumer,Office Supplies,Smead Hanging File Folder,4,0.0,60.17
+ORD-21316,2023-12-16,South,Consumer,Furniture,Office Star Ergonomic Chair,1,0.3,147.78
+ORD-21230,2023-12-16,West,Consumer,Technology,Cisco TelePresence System,4,0.15,3548.91
+ORD-20502,2023-12-17,West,Corporate,Technology,Logitech Wireless Mouse,7,0.3,171.54
+ORD-20048,2023-12-17,West,Home Office,Technology,Samsung Galaxy Phone,10,0.1,5270.68
+ORD-20015,2023-12-17,West,Home Office,Furniture,Office Star Ergonomic Chair,5,0.1,1039.02
+ORD-20877,2023-12-18,West,Consumer,Technology,Cisco TelePresence System,2,0.05,2596.06
+ORD-20211,2023-12-22,Central,Consumer,Technology,Samsung Galaxy Phone,4,0.1,2103.54
+ORD-21174,2023-12-22,Central,Home Office,Technology,HP LaserJet 3310,10,0.2,3750.78
+ORD-21291,2023-12-22,West,Corporate,Furniture,Bush Advantage Collection Table,5,0.2,1440.12
+ORD-21143,2023-12-22,South,Consumer,Technology,Cisco TelePresence System,9,0.2,9448.16
+ORD-21400,2023-12-24,West,Home Office,Technology,Samsung Galaxy Phone,8,0.15,4634.99
+ORD-21427,2023-12-25,East,Corporate,Technology,Samsung Galaxy Phone,10,0.1,5659.17
+ORD-20395,2023-12-27,East,Corporate,Office Supplies,Staples File Folders,6,0.0,71.98
+ORD-20075,2023-12-27,Central,Corporate,Furniture,Sauder Bookcase,2,0.1,337.38
+ORD-20818,2023-12-28,Central,Home Office,Office Supplies,Smead Hanging File Folder,4,0.0,52.87
+ORD-20300,2023-12-28,South,Consumer,Furniture,Bush Advantage Collection Table,2,0.1,835.88
+ORD-20291,2023-12-29,West,Home Office,Furniture,Global Troy Executive Leather Chair,9,0.0,3719.6
+ORD-20813,2023-12-29,West,Consumer,Technology,Samsung Galaxy Phone,9,0.1,4614.8
+ORD-20050,2023-12-29,East,Consumer,Technology,HP LaserJet 3310,3,0.2,1250.61
+ORD-20139,2023-12-30,Central,Home Office,Furniture,Bush Advantage Collection Table,7,0.05,2409.5
+ORD-21405,2023-12-30,West,Corporate,Technology,Canon imageCLASS 2200,10,0.0,7421.88
+ORD-20828,2024-01-01,Central,Consumer,Furniture,Bush Advantage Collection Table,5,0.15,1784.33
+ORD-20180,2024-01-03,West,Corporate,Office Supplies,Fellowes PB500 Binding Machine,2,0.15,274.56
+ORD-20773,2024-01-04,Central,Consumer,Office Supplies,Fellowes PB500 Binding Machine,6,0.15,940.65
+ORD-20498,2024-01-05,East,Consumer,Furniture,Sauder Bookcase,1,0.05,154.54
+ORD-20043,2024-01-05,East,Consumer,Technology,Cisco TelePresence System,9,0.05,8801.04
+ORD-20304,2024-01-08,South,Corporate,Technology,Canon imageCLASS 2200,8,0.2,5679.68
+ORD-20786,2024-01-08,West,Corporate,Office Supplies,Fellowes PB500 Binding Machine,8,0.0,1582.54
+ORD-20426,2024-01-08,West,Home Office,Office Supplies,Smead Hanging File Folder,8,0.05,128.97
+ORD-21008,2024-01-09,South,Home Office,Furniture,Sauder Bookcase,2,0.15,292.77
+ORD-21082,2024-01-12,West,Home Office,Office Supplies,Desk Organizer Set,4,0.15,82.41
+ORD-20840,2024-01-12,Central,Corporate,Technology,Cisco TelePresence System,10,0.1,9742.66
+ORD-21469,2024-01-13,Central,Home Office,Technology,Logitech Wireless Mouse,5,0.0,174.29
+ORD-21030,2024-01-13,East,Home Office,Office Supplies,Staples File Folders,4,0.2,41.7
+ORD-20781,2024-01-15,South,Corporate,Furniture,Office Star Ergonomic Chair,6,0.0,1082.74
+ORD-20908,2024-01-16,South,Consumer,Technology,Canon imageCLASS 2200,7,0.3,4709.77
+ORD-21299,2024-01-16,South,Home Office,Technology,Cisco TelePresence System,4,0.0,4466.82
+ORD-21170,2024-01-18,West,Corporate,Technology,HP LaserJet 3310,4,0.0,2231.95
+ORD-21363,2024-01-19,West,Consumer,Technology,Cisco TelePresence System,10,0.0,12113.42
+ORD-20761,2024-01-20,West,Consumer,Technology,Logitech Wireless Mouse,2,0.1,62.68
+ORD-21222,2024-01-21,West,Consumer,Office Supplies,GBC DocuBind TL300,10,0.15,1186.29
+ORD-21435,2024-01-21,West,Consumer,Office Supplies,GBC DocuBind TL300,7,0.0,822.22
+ORD-20148,2024-01-22,West,Home Office,Technology,Canon imageCLASS 2200,5,0.2,3780.33
+ORD-20526,2024-01-22,West,Home Office,Office Supplies,Wilson Jones Legal Size Ring Binders,8,0.15,169.09
+ORD-20446,2024-01-24,East,Consumer,Technology,Samsung Galaxy Phone,5,0.3,2356.35
+ORD-20035,2024-01-25,Central,Corporate,Office Supplies,Desk Organizer Set,2,0.1,41.55
+ORD-20346,2024-01-26,East,Home Office,Office Supplies,Smead Hanging File Folder,2,0.0,27.65
+ORD-20031,2024-01-27,South,Consumer,Office Supplies,GBC DocuBind TL300,4,0.05,437.91
+ORD-20265,2024-01-29,East,Corporate,Office Supplies,Avery Durable Binder,4,0.2,60.3
+ORD-20811,2024-01-30,West,Corporate,Technology,Logitech Wireless Mouse,7,0.1,232.37
+ORD-20942,2024-01-30,East,Home Office,Office Supplies,Desk Organizer Set,2,0.1,47.16
+ORD-20620,2024-02-01,West,Corporate,Office Supplies,Wilson Jones Legal Size Ring Binders,9,0.1,160.78
+ORD-21259,2024-02-01,East,Corporate,Office Supplies,Desk Organizer Set,10,0.0,234.34
+ORD-21410,2024-02-01,South,Corporate,Technology,Brother Laser Printer,1,0.2,270.98
+ORD-21184,2024-02-03,West,Corporate,Furniture,HON 5400 Series Task Chairs,6,0.0,1847.08
+ORD-20797,2024-02-03,Central,Consumer,Technology,Canon imageCLASS 2200,1,0.2,667.2
+ORD-21101,2024-02-04,South,Consumer,Office Supplies,Desk Organizer Set,7,0.3,114.73
+ORD-21161,2024-02-05,Central,Home Office,Technology,Logitech Wireless Mouse,10,0.05,380.0
+ORD-21408,2024-02-06,East,Home Office,Office Supplies,Desk Organizer Set,1,0.15,20.56
+ORD-20711,2024-02-06,South,Corporate,Office Supplies,GBC DocuBind TL300,1,0.0,121.79
+ORD-21191,2024-02-07,Central,Corporate,Office Supplies,Smead Hanging File Folder,7,0.2,75.54
+ORD-20245,2024-02-07,South,Home Office,Technology,Cisco TelePresence System,7,0.2,6969.27
+ORD-20465,2024-02-09,Central,Corporate,Furniture,Sauder Bookcase,5,0.0,765.63
+ORD-20430,2024-02-10,West,Consumer,Furniture,Global Troy Executive Leather Chair,7,0.3,1961.11
+ORD-21068,2024-02-10,East,Home Office,Technology,Canon imageCLASS 2200,6,0.05,4593.68
+ORD-21119,2024-02-10,South,Home Office,Technology,Anker USB-C Hub,4,0.3,140.82
+ORD-20892,2024-02-11,Central,Corporate,Technology,Epson WorkForce Printer,8,0.05,1693.72
+ORD-20964,2024-02-13,South,Consumer,Furniture,HON 5400 Series Task Chairs,5,0.1,1120.18
+ORD-20104,2024-02-14,South,Home Office,Office Supplies,Desk Organizer Set,5,0.1,133.55
+ORD-20835,2024-02-14,Central,Consumer,Technology,HP LaserJet 3310,9,0.15,4612.29
+ORD-21434,2024-02-14,Central,Home Office,Technology,Logitech Wireless Mouse,1,0.0,32.5
+ORD-20688,2024-02-14,South,Corporate,Technology,Brother Laser Printer,10,0.3,2241.4
+ORD-21046,2024-02-15,East,Home Office,Technology,Anker USB-C Hub,8,0.2,347.65
+ORD-21263,2024-02-15,Central,Home Office,Furniture,Bush Advantage Collection Table,3,0.1,1249.29
+ORD-20317,2024-02-15,East,Corporate,Furniture,Global Troy Executive Leather Chair,3,0.15,979.77
+ORD-20532,2024-02-15,West,Corporate,Furniture,Sauder Bookcase,2,0.3,250.28
+ORD-20582,2024-02-15,West,Consumer,Office Supplies,Avery Durable Binder,2,0.3,23.97
+ORD-20191,2024-02-16,Central,Home Office,Technology,Canon imageCLASS 2200,5,0.3,3068.3
+ORD-21256,2024-02-16,Central,Corporate,Furniture,HON 5400 Series Task Chairs,10,0.0,2481.79
+ORD-20004,2024-02-17,South,Home Office,Technology,Cisco TelePresence System,4,0.0,4861.12
+ORD-21069,2024-02-18,South,Home Office,Technology,Anker USB-C Hub,9,0.15,419.76
+ORD-21306,2024-02-19,West,Home Office,Office Supplies,GBC DocuBind TL300,6,0.3,562.41
+ORD-20192,2024-02-20,South,Home Office,Office Supplies,Wilson Jones Legal Size Ring Binders,4,0.15,70.45
+ORD-21110,2024-02-21,South,Home Office,Technology,HP LaserJet 3310,5,0.0,3085.13
+ORD-21402,2024-02-21,West,Corporate,Office Supplies,Fellowes PB500 Binding Machine,6,0.15,941.85
+ORD-21097,2024-02-23,Central,Consumer,Furniture,HON 5400 Series Task Chairs,8,0.2,1959.53
+ORD-20827,2024-02-23,West,Corporate,Furniture,HON 5400 Series Task Chairs,1,0.1,239.76
+ORD-21188,2024-02-26,West,Consumer,Technology,HP LaserJet 3310,4,0.0,1983.19
+ORD-20438,2024-02-27,East,Consumer,Furniture,HON 5400 Series Task Chairs,3,0.0,906.58
+ORD-21446,2024-02-27,Central,Consumer,Technology,Logitech Wireless Mouse,9,0.0,320.99
+ORD-20856,2024-02-28,West,Home Office,Furniture,Sauder Bookcase,10,0.2,1448.15
+ORD-20734,2024-02-28,West,Home Office,Technology,Logitech Wireless Mouse,7,0.0,269.81
+ORD-21167,2024-02-29,South,Home Office,Office Supplies,Desk Organizer Set,7,0.3,133.25
+ORD-20351,2024-03-01,West,Corporate,Office Supplies,Smead Hanging File Folder,1,0.0,14.25
+ORD-21429,2024-03-01,East,Corporate,Office Supplies,Smead Hanging File Folder,2,0.05,26.13
+ORD-20107,2024-03-03,South,Home Office,Technology,Cisco TelePresence System,7,0.1,8564.85
+ORD-21344,2024-03-04,West,Corporate,Office Supplies,Staples File Folders,9,0.2,81.12
+ORD-20733,2024-03-04,Central,Consumer,Office Supplies,Fellowes PB500 Binding Machine,4,0.2,630.19
+ORD-21114,2024-03-05,West,Consumer,Office Supplies,Desk Organizer Set,5,0.0,137.61
+ORD-20710,2024-03-05,West,Consumer,Furniture,Sauder Bookcase,7,0.0,1084.48
+ORD-21444,2024-03-05,Central,Corporate,Technology,HP LaserJet 3310,6,0.0,3539.07
+ORD-20715,2024-03-05,West,Corporate,Furniture,Sauder Bookcase,7,0.0,1359.16
+ORD-20531,2024-03-06,South,Corporate,Office Supplies,Fellowes PB500 Binding Machine,1,0.2,152.85
+ORD-21333,2024-03-06,West,Home Office,Office Supplies,Fellowes PB500 Binding Machine,7,0.0,1405.16
+ORD-20303,2024-03-06,East,Home Office,Technology,Samsung Galaxy Phone,8,0.1,4522.7
+ORD-20018,2024-03-07,Central,Home Office,Technology,Samsung Galaxy Phone,9,0.05,4603.72
+ORD-20083,2024-03-07,West,Home Office,Office Supplies,Avery Durable Binder,9,0.0,176.07
+ORD-20019,2024-03-07,West,Corporate,Technology,Cisco TelePresence System,4,0.05,4592.45
+ORD-20231,2024-03-11,West,Corporate,Technology,HP LaserJet 3310,8,0.3,3207.02
+ORD-21032,2024-03-11,West,Home Office,Office Supplies,Smead Hanging File Folder,1,0.0,15.3
+ORD-20822,2024-03-12,South,Consumer,Office Supplies,Smead Hanging File Folder,2,0.3,19.7
+ORD-20135,2024-03-13,Central,Consumer,Furniture,Bush Advantage Collection Table,3,0.05,1070.05
+ORD-20565,2024-03-13,Central,Home Office,Technology,Cisco TelePresence System,10,0.15,9001.6
+ORD-20767,2024-03-14,West,Corporate,Office Supplies,Staples File Folders,3,0.2,31.82
+ORD-20536,2024-03-14,South,Consumer,Technology,HP LaserJet 3310,1,0.3,342.16
+ORD-20873,2024-03-15,Central,Home Office,Furniture,Bush Advantage Collection Table,3,0.2,896.36
+ORD-21384,2024-03-15,Central,Corporate,Technology,Cisco TelePresence System,2,0.2,1794.01
+ORD-21166,2024-03-16,West,Consumer,Office Supplies,Desk Organizer Set,2,0.3,32.38
+ORD-21329,2024-03-17,West,Home Office,Office Supplies,Staples File Folders,2,0.3,19.04
+ORD-20527,2024-03-17,West,Consumer,Technology,Samsung Galaxy Phone,2,0.05,1156.96
+ORD-20227,2024-03-18,South,Home Office,Office Supplies,Smead Hanging File Folder,2,0.0,26.92
+ORD-21157,2024-03-18,West,Corporate,Furniture,HON 5400 Series Task Chairs,5,0.2,1133.22
+ORD-21334,2024-03-19,East,Corporate,Furniture,Bush Advantage Collection Table,8,0.3,2338.88
+ORD-21104,2024-03-19,Central,Home Office,Technology,Canon imageCLASS 2200,2,0.2,1219.58
+ORD-21250,2024-03-19,East,Corporate,Furniture,Bush Advantage Collection Table,8,0.05,3129.52
+ORD-20099,2024-03-19,East,Home Office,Office Supplies,Avery Durable Binder,2,0.3,26.74
+ORD-21181,2024-03-20,South,Home Office,Furniture,Sauder Bookcase,8,0.2,1153.53
+ORD-20520,2024-03-21,Central,Consumer,Technology,Brother Laser Printer,2,0.0,708.79
+ORD-20966,2024-03-21,Central,Home Office,Technology,HP LaserJet 3310,6,0.1,3118.37
+ORD-20128,2024-03-23,West,Home Office,Office Supplies,Smead Hanging File Folder,3,0.1,36.6
+ORD-21116,2024-03-23,West,Consumer,Technology,HP LaserJet 3310,9,0.05,4581.16
+ORD-20098,2024-03-25,East,Corporate,Technology,Anker USB-C Hub,8,0.1,331.51
+ORD-20130,2024-03-25,East,Corporate,Technology,HP LaserJet 3310,4,0.0,2035.2
+ORD-20171,2024-03-26,South,Consumer,Technology,Brother Laser Printer,9,0.05,2571.94
+ORD-21398,2024-03-26,Central,Consumer,Technology,HP LaserJet 3310,2,0.1,1062.8
+ORD-21063,2024-03-26,South,Corporate,Office Supplies,Fellowes PB500 Binding Machine,10,0.0,1855.49
+ORD-21131,2024-03-27,South,Home Office,Technology,Brother Laser Printer,4,0.2,1043.12
+ORD-21412,2024-03-28,West,Home Office,Furniture,Bush Advantage Collection Table,6,0.1,2000.42
+ORD-20709,2024-03-29,South,Home Office,Furniture,Bush Advantage Collection Table,6,0.3,1627.65
+ORD-21467,2024-03-29,South,Home Office,Furniture,Bush Advantage Collection Table,1,0.15,402.09
+ORD-20168,2024-03-30,West,Home Office,Technology,Samsung Galaxy Phone,5,0.15,3028.16
+ORD-20158,2024-03-31,East,Corporate,Technology,Canon imageCLASS 2200,6,0.15,4912.73
+ORD-20575,2024-04-01,South,Consumer,Office Supplies,Staples File Folders,7,0.0,88.51
+ORD-20808,2024-04-02,East,Consumer,Technology,Brother Laser Printer,8,0.3,1946.8
+ORD-21436,2024-04-02,West,Home Office,Technology,HP LaserJet 3310,3,0.3,1038.16
+ORD-20729,2024-04-02,South,Consumer,Furniture,Bush Advantage Collection Table,3,0.15,1010.28
+ORD-21465,2024-04-03,Central,Consumer,Office Supplies,Smead Hanging File Folder,8,0.2,100.38
+ORD-20022,2024-04-03,East,Home Office,Office Supplies,GBC DocuBind TL300,1,0.1,129.39
+ORD-21409,2024-04-03,West,Home Office,Technology,Anker USB-C Hub,4,0.0,213.96
+ORD-20839,2024-04-04,East,Corporate,Office Supplies,Fellowes PB500 Binding Machine,6,0.0,1060.57
+ORD-20574,2024-04-05,West,Corporate,Furniture,Global Troy Executive Leather Chair,10,0.2,2543.21
+ORD-20144,2024-04-06,East,Consumer,Technology,Epson WorkForce Printer,5,0.0,1494.16
+ORD-21389,2024-04-09,South,Home Office,Technology,Cisco TelePresence System,1,0.0,1288.35
+ORD-20833,2024-04-09,East,Consumer,Technology,Logitech Wireless Mouse,4,0.15,109.82
+ORD-21244,2024-04-10,South,Consumer,Technology,Epson WorkForce Printer,10,0.1,2412.64
+ORD-21159,2024-04-10,West,Consumer,Office Supplies,Fellowes PB500 Binding Machine,6,0.0,969.62
+ORD-21243,2024-04-10,Central,Corporate,Furniture,Sauder Bookcase,3,0.0,479.85
+ORD-20933,2024-04-11,East,Home Office,Technology,Epson WorkForce Printer,1,0.15,229.07
+ORD-20950,2024-04-12,West,Consumer,Office Supplies,Wilson Jones Legal Size Ring Binders,6,0.15,125.51
+ORD-20534,2024-04-13,South,Consumer,Technology,HP LaserJet 3310,9,0.0,4856.08
+ORD-21381,2024-04-13,West,Consumer,Office Supplies,Staples File Folders,9,0.05,91.89
+ORD-21418,2024-04-13,South,Consumer,Technology,Brother Laser Printer,9,0.1,2500.73
+ORD-20250,2024-04-15,West,Home Office,Technology,Cisco TelePresence System,5,0.3,4125.07
+ORD-20929,2024-04-19,West,Corporate,Furniture,HON 5400 Series Task Chairs,1,0.1,214.52
+ORD-20117,2024-04-19,South,Home Office,Furniture,HON 5400 Series Task Chairs,10,0.3,1789.6
+ORD-21238,2024-04-19,Central,Corporate,Office Supplies,Desk Organizer Set,2,0.15,37.58
+ORD-20490,2024-04-20,East,Corporate,Technology,Epson WorkForce Printer,6,0.0,1483.47
+ORD-20330,2024-04-20,West,Corporate,Office Supplies,Wilson Jones Legal Size Ring Binders,1,0.3,13.35
+ORD-20513,2024-04-20,West,Home Office,Technology,Anker USB-C Hub,1,0.0,40.92
+ORD-20673,2024-04-21,East,Home Office,Office Supplies,Fellowes PB500 Binding Machine,2,0.2,312.31
+ORD-20114,2024-04-22,Central,Corporate,Office Supplies,Wilson Jones Legal Size Ring Binders,6,0.0,125.01
+ORD-21274,2024-04-23,South,Home Office,Office Supplies,Smead Hanging File Folder,3,0.15,39.72
+ORD-21236,2024-04-24,East,Corporate,Furniture,Office Star Ergonomic Chair,9,0.3,1497.97
+ORD-20493,2024-04-24,East,Corporate,Furniture,Bush Advantage Collection Table,1,0.1,358.35
+ORD-20378,2024-04-24,Central,Consumer,Office Supplies,Wilson Jones Legal Size Ring Binders,4,0.0,83.18
+ORD-21370,2024-04-25,West,Corporate,Office Supplies,Avery Durable Binder,9,0.05,149.28
+ORD-21072,2024-04-26,East,Corporate,Office Supplies,Desk Organizer Set,2,0.15,39.34
+ORD-20483,2024-04-26,Central,Corporate,Technology,Cisco TelePresence System,7,0.3,6466.95
+ORD-20845,2024-04-26,Central,Consumer,Technology,Cisco TelePresence System,9,0.1,8367.76
+ORD-20342,2024-04-28,East,Home Office,Technology,Anker USB-C Hub,4,0.15,157.21
+ORD-20491,2024-04-29,West,Consumer,Furniture,Global Troy Executive Leather Chair,2,0.3,435.19
+ORD-20915,2024-04-29,South,Home Office,Technology,HP LaserJet 3310,10,0.05,4555.18
+ORD-20996,2024-05-01,South,Home Office,Furniture,Office Star Ergonomic Chair,9,0.1,1883.45
+ORD-21183,2024-05-01,Central,Consumer,Office Supplies,Staples File Folders,8,0.05,81.57
+ORD-21457,2024-05-02,West,Consumer,Office Supplies,Desk Organizer Set,6,0.15,129.7
+ORD-20339,2024-05-02,Central,Corporate,Technology,HP LaserJet 3310,10,0.2,3948.08
+ORD-20285,2024-05-02,West,Corporate,Office Supplies,GBC DocuBind TL300,9,0.05,1029.65
+ORD-20937,2024-05-03,South,Home Office,Technology,Anker USB-C Hub,4,0.15,182.06
+ORD-20396,2024-05-04,West,Consumer,Furniture,HON 5400 Series Task Chairs,3,0.0,714.44
+ORD-21146,2024-05-04,East,Home Office,Office Supplies,Fellowes PB500 Binding Machine,1,0.15,177.57
+ORD-20205,2024-05-05,East,Consumer,Office Supplies,Avery Durable Binder,2,0.05,34.97
+ORD-20784,2024-05-05,West,Corporate,Technology,Epson WorkForce Printer,8,0.0,2182.32
+ORD-21262,2024-05-06,West,Consumer,Technology,Canon imageCLASS 2200,10,0.0,8567.59
+ORD-20268,2024-05-06,South,Home Office,Office Supplies,Smead Hanging File Folder,9,0.2,101.82
+ORD-21413,2024-05-06,Central,Corporate,Office Supplies,Staples File Folders,2,0.15,21.23
+ORD-20700,2024-05-07,Central,Home Office,Furniture,Office Star Ergonomic Chair,2,0.0,369.95
+ORD-20089,2024-05-07,West,Home Office,Furniture,Global Troy Executive Leather Chair,3,0.1,983.5
+ORD-21094,2024-05-08,Central,Corporate,Technology,Epson WorkForce Printer,6,0.05,1382.14
+ORD-20569,2024-05-09,West,Home Office,Office Supplies,Staples File Folders,4,0.05,47.2
+ORD-21496,2024-05-09,South,Home Office,Technology,Brother Laser Printer,7,0.3,1723.33
+ORD-20040,2024-05-10,South,Corporate,Technology,Cisco TelePresence System,5,0.0,5975.32
+ORD-20993,2024-05-10,East,Corporate,Office Supplies,Smead Hanging File Folder,7,0.2,78.86
+ORD-20334,2024-05-10,West,Corporate,Furniture,HON 5400 Series Task Chairs,4,0.05,967.19
+ORD-21084,2024-05-11,West,Consumer,Office Supplies,Staples File Folders,1,0.0,12.03
+ORD-21177,2024-05-12,East,Home Office,Furniture,Global Troy Executive Leather Chair,4,0.0,1339.97
+ORD-20540,2024-05-14,East,Home Office,Technology,HP LaserJet 3310,5,0.0,3069.87
+ORD-20799,2024-05-14,Central,Home Office,Office Supplies,Desk Organizer Set,8,0.0,188.24
+ORD-20320,2024-05-15,Central,Consumer,Office Supplies,Avery Durable Binder,3,0.15,41.91
+ORD-20434,2024-05-15,West,Home Office,Technology,Samsung Galaxy Phone,8,0.05,4927.14
+ORD-21313,2024-05-16,East,Home Office,Office Supplies,Staples File Folders,1,0.1,9.68
+ORD-20310,2024-05-16,South,Consumer,Technology,HP LaserJet 3310,10,0.0,4747.87
+ORD-20887,2024-05-17,East,Corporate,Office Supplies,Desk Organizer Set,6,0.0,157.94
+ORD-20652,2024-05-18,Central,Consumer,Technology,Epson WorkForce Printer,10,0.05,2318.96
+ORD-20874,2024-05-19,South,Consumer,Office Supplies,GBC DocuBind TL300,3,0.0,356.69
+ORD-20468,2024-05-19,West,Consumer,Furniture,Global Troy Executive Leather Chair,8,0.0,2638.89
+ORD-20991,2024-05-20,East,Corporate,Office Supplies,GBC DocuBind TL300,10,0.0,1484.35
+ORD-21124,2024-05-20,Central,Consumer,Office Supplies,Desk Organizer Set,9,0.1,242.07
+ORD-20882,2024-05-21,South,Consumer,Technology,Anker USB-C Hub,8,0.1,319.49
+ORD-20488,2024-05-21,East,Home Office,Furniture,Office Star Ergonomic Chair,3,0.2,458.2
+ORD-21051,2024-05-21,West,Consumer,Technology,Cisco TelePresence System,10,0.2,9658.13
+ORD-21347,2024-05-22,Central,Corporate,Furniture,Sauder Bookcase,2,0.0,322.22
+ORD-21420,2024-05-23,East,Consumer,Office Supplies,GBC DocuBind TL300,10,0.2,1192.62
+ORD-20324,2024-05-23,East,Consumer,Furniture,Global Troy Executive Leather Chair,7,0.2,2130.67
+ORD-21074,2024-05-24,South,Consumer,Office Supplies,Avery Durable Binder,7,0.2,113.18
+ORD-20383,2024-05-26,Central,Home Office,Office Supplies,Avery Durable Binder,9,0.05,143.45
+ORD-20242,2024-05-26,West,Home Office,Furniture,Bush Advantage Collection Table,10,0.1,3772.54
+ORD-20253,2024-05-26,West,Corporate,Furniture,Sauder Bookcase,3,0.2,445.98
+ORD-21246,2024-05-27,South,Corporate,Technology,Epson WorkForce Printer,4,0.05,968.51
+ORD-20726,2024-05-28,East,Consumer,Technology,Canon imageCLASS 2200,1,0.15,775.71
+ORD-20281,2024-05-28,West,Consumer,Office Supplies,Avery Durable Binder,1,0.0,19.85
+ORD-20051,2024-05-29,South,Consumer,Furniture,HON 5400 Series Task Chairs,3,0.2,669.5
+ORD-20978,2024-05-30,West,Corporate,Office Supplies,Avery Durable Binder,7,0.3,79.44
+ORD-20391,2024-05-30,Central,Consumer,Technology,Samsung Galaxy Phone,9,0.3,4143.12
+ORD-21009,2024-05-30,South,Home Office,Furniture,HON 5400 Series Task Chairs,5,0.15,1012.33
+ORD-20315,2024-05-31,East,Corporate,Furniture,HON 5400 Series Task Chairs,3,0.1,702.43
+ORD-21325,2024-06-03,South,Consumer,Office Supplies,Fellowes PB500 Binding Machine,9,0.0,1955.56
+ORD-21228,2024-06-03,South,Consumer,Technology,Cisco TelePresence System,3,0.2,3247.14
+ORD-21266,2024-06-04,Central,Consumer,Technology,Samsung Galaxy Phone,3,0.1,1492.82
+ORD-20076,2024-06-04,Central,Home Office,Technology,Anker USB-C Hub,5,0.2,213.93
+ORD-21113,2024-06-05,Central,Consumer,Furniture,HON 5400 Series Task Chairs,2,0.15,411.19
+ORD-20056,2024-06-06,South,Corporate,Technology,Epson WorkForce Printer,10,0.05,2769.76
+ORD-21015,2024-06-07,South,Corporate,Office Supplies,Wilson Jones Legal Size Ring Binders,8,0.15,170.08
+ORD-20704,2024-06-08,Central,Consumer,Office Supplies,Desk Organizer Set,3,0.3,53.06
+ORD-20561,2024-06-09,West,Corporate,Office Supplies,Wilson Jones Legal Size Ring Binders,9,0.2,167.07
+ORD-20655,2024-06-10,Central,Consumer,Office Supplies,GBC DocuBind TL300,2,0.15,193.01
+ORD-20983,2024-06-11,West,Consumer,Office Supplies,Avery Durable Binder,7,0.1,123.35
+ORD-20794,2024-06-12,East,Corporate,Technology,Epson WorkForce Printer,4,0.0,995.48
+ORD-20247,2024-06-12,West,Corporate,Furniture,Sauder Bookcase,7,0.3,891.25
+ORD-20738,2024-06-12,East,Home Office,Office Supplies,Smead Hanging File Folder,10,0.2,127.37
+ORD-21153,2024-06-13,Central,Corporate,Technology,Samsung Galaxy Phone,10,0.1,5927.66
+ORD-20221,2024-06-14,East,Corporate,Technology,Brother Laser Printer,2,0.0,691.69
+ORD-20920,2024-06-14,Central,Corporate,Furniture,Office Star Ergonomic Chair,10,0.1,2086.3
+ORD-20825,2024-06-15,South,Consumer,Office Supplies,GBC DocuBind TL300,5,0.0,644.15
+ORD-20269,2024-06-16,West,Home Office,Furniture,Global Troy Executive Leather Chair,6,0.0,1908.56
+ORD-20838,2024-06-16,West,Corporate,Office Supplies,Smead Hanging File Folder,10,0.05,128.62
+ORD-20911,2024-06-17,Central,Home Office,Furniture,Office Star Ergonomic Chair,7,0.1,1316.6
+ORD-20938,2024-06-17,Central,Corporate,Office Supplies,Avery Durable Binder,7,0.3,80.15
+ORD-20793,2024-06-18,Central,Consumer,Technology,Brother Laser Printer,8,0.0,2398.49
+ORD-20603,2024-06-18,South,Consumer,Furniture,Bush Advantage Collection Table,6,0.1,2233.47
+ORD-21056,2024-06-18,East,Corporate,Office Supplies,Desk Organizer Set,9,0.1,188.08
+ORD-21399,2024-06-19,West,Home Office,Office Supplies,Avery Durable Binder,1,0.0,18.52
+ORD-20054,2024-06-22,East,Home Office,Furniture,Bush Advantage Collection Table,7,0.1,2397.3
+ORD-21103,2024-06-22,South,Corporate,Technology,Brother Laser Printer,9,0.0,2551.49
+ORD-21317,2024-06-25,Central,Home Office,Technology,Canon imageCLASS 2200,1,0.05,737.48
+ORD-21489,2024-06-25,Central,Home Office,Office Supplies,Avery Durable Binder,6,0.15,101.51
+ORD-21173,2024-06-25,South,Consumer,Office Supplies,Avery Durable Binder,10,0.15,163.28
+ORD-20305,2024-06-25,West,Home Office,Office Supplies,Desk Organizer Set,9,0.0,232.2
+ORD-20997,2024-06-28,West,Consumer,Furniture,Sauder Bookcase,2,0.0,386.98
+ORD-21139,2024-06-28,South,Corporate,Technology,Anker USB-C Hub,6,0.0,252.16
+ORD-20974,2024-06-30,East,Corporate,Office Supplies,Wilson Jones Legal Size Ring Binders,8,0.2,149.11
+ORD-20455,2024-06-30,West,Consumer,Technology,Logitech Wireless Mouse,8,0.2,256.8
+ORD-20769,2024-07-01,East,Consumer,Office Supplies,Avery Durable Binder,7,0.05,118.25
+ORD-21339,2024-07-01,West,Home Office,Technology,Anker USB-C Hub,2,0.0,92.16
+ORD-20858,2024-07-02,West,Consumer,Furniture,Global Troy Executive Leather Chair,1,0.2,299.12
+ORD-21126,2024-07-03,Central,Home Office,Furniture,Sauder Bookcase,8,0.2,986.59
+ORD-20563,2024-07-04,South,Corporate,Furniture,Bush Advantage Collection Table,2,0.0,908.01
+ORD-20663,2024-07-04,South,Corporate,Furniture,Sauder Bookcase,7,0.15,917.32
+ORD-20042,2024-07-04,West,Corporate,Office Supplies,Desk Organizer Set,8,0.15,202.61
+ORD-21426,2024-07-05,West,Corporate,Technology,Logitech Wireless Mouse,5,0.15,164.14
+ORD-20812,2024-07-06,Central,Home Office,Technology,Brother Laser Printer,3,0.05,779.32
+ORD-20389,2024-07-09,Central,Home Office,Office Supplies,Desk Organizer Set,6,0.0,157.25
+ORD-20772,2024-07-09,Central,Home Office,Technology,HP LaserJet 3310,2,0.05,1163.81
+ORD-20126,2024-07-10,Central,Home Office,Furniture,Office Star Ergonomic Chair,10,0.2,1765.65
+ORD-20505,2024-07-11,South,Corporate,Furniture,Sauder Bookcase,9,0.1,1628.96
+ORD-20408,2024-07-11,East,Corporate,Furniture,HON 5400 Series Task Chairs,10,0.0,2878.59
+ORD-21001,2024-07-14,East,Home Office,Technology,Anker USB-C Hub,7,0.3,249.23
+ORD-20616,2024-07-14,Central,Home Office,Furniture,Bush Advantage Collection Table,8,0.15,3254.45
+ORD-20559,2024-07-18,Central,Consumer,Technology,HP LaserJet 3310,2,0.3,690.76
+ORD-20618,2024-07-18,South,Home Office,Office Supplies,Wilson Jones Legal Size Ring Binders,4,0.3,59.54
+ORD-20530,2024-07-18,Central,Corporate,Technology,Cisco TelePresence System,8,0.1,7544.54
+ORD-20783,2024-07-19,East,Home Office,Office Supplies,Wilson Jones Legal Size Ring Binders,7,0.2,110.99
+ORD-20671,2024-07-19,East,Consumer,Furniture,Sauder Bookcase,1,0.0,199.02
+ORD-21016,2024-07-19,East,Home Office,Technology,Logitech Wireless Mouse,1,0.05,31.91
+ORD-20649,2024-07-20,West,Consumer,Furniture,Global Troy Executive Leather Chair,2,0.15,577.5
+ORD-20881,2024-07-22,West,Home Office,Technology,Cisco TelePresence System,6,0.15,5763.58
+ORD-21386,2024-07-23,Central,Home Office,Furniture,Bush Advantage Collection Table,10,0.0,4068.08
+ORD-21156,2024-07-24,West,Home Office,Office Supplies,Avery Durable Binder,3,0.0,61.98
+ORD-20473,2024-07-25,South,Consumer,Furniture,Global Troy Executive Leather Chair,6,0.0,1875.01
+ORD-20039,2024-07-25,East,Home Office,Office Supplies,Staples File Folders,8,0.15,70.94
+ORD-20165,2024-07-26,West,Corporate,Technology,HP LaserJet 3310,10,0.3,3454.53
+ORD-20218,2024-07-26,South,Corporate,Office Supplies,Staples File Folders,5,0.1,50.55
+ORD-20902,2024-07-27,West,Corporate,Office Supplies,GBC DocuBind TL300,8,0.3,640.03
+ORD-20512,2024-07-27,South,Corporate,Technology,Anker USB-C Hub,3,0.0,142.64
+ORD-20775,2024-07-27,Central,Corporate,Technology,Cisco TelePresence System,3,0.05,3142.11
+ORD-20910,2024-07-29,South,Corporate,Technology,Epson WorkForce Printer,10,0.3,2090.5
+ORD-20543,2024-07-29,Central,Home Office,Furniture,Sauder Bookcase,3,0.0,571.54
+ORD-21066,2024-07-30,South,Consumer,Furniture,Global Troy Executive Leather Chair,9,0.0,3188.83
+ORD-20581,2024-07-30,West,Corporate,Technology,Canon imageCLASS 2200,8,0.0,7394.59
+ORD-21064,2024-07-30,Central,Consumer,Office Supplies,Avery Durable Binder,10,0.0,171.94
+ORD-20742,2024-08-01,Central,Home Office,Furniture,HON 5400 Series Task Chairs,7,0.15,1765.2
+ORD-20178,2024-08-02,West,Home Office,Furniture,HON 5400 Series Task Chairs,7,0.3,1423.71
+ORD-21120,2024-08-02,West,Consumer,Office Supplies,Staples File Folders,5,0.0,55.43
+ORD-20747,2024-08-02,South,Corporate,Office Supplies,Staples File Folders,4,0.15,46.48
+ORD-20106,2024-08-03,Central,Corporate,Technology,Brother Laser Printer,6,0.2,1510.19
+ORD-20296,2024-08-03,West,Corporate,Technology,HP LaserJet 3310,2,0.3,714.22
+ORD-20981,2024-08-04,Central,Home Office,Technology,Anker USB-C Hub,7,0.2,258.39
+ORD-20120,2024-08-05,West,Corporate,Furniture,Global Troy Executive Leather Chair,8,0.3,2284.56
+ORD-20936,2024-08-05,Central,Home Office,Office Supplies,Wilson Jones Legal Size Ring Binders,7,0.15,141.49
+ORD-20369,2024-08-05,Central,Home Office,Technology,Epson WorkForce Printer,2,0.0,510.79
+ORD-21216,2024-08-07,East,Consumer,Office Supplies,Avery Durable Binder,8,0.3,94.44
+ORD-21300,2024-08-07,South,Consumer,Office Supplies,GBC DocuBind TL300,8,0.1,929.29
+ORD-21106,2024-08-07,East,Home Office,Office Supplies,Smead Hanging File Folder,2,0.1,26.74
+ORD-21023,2024-08-08,Central,Corporate,Technology,Cisco TelePresence System,5,0.15,5548.84
+ORD-20259,2024-08-09,South,Corporate,Technology,Cisco TelePresence System,1,0.15,936.57
+ORD-20308,2024-08-10,East,Corporate,Technology,Logitech Wireless Mouse,6,0.3,155.06
+ORD-21199,2024-08-10,Central,Home Office,Technology,Logitech Wireless Mouse,6,0.2,179.45
+ORD-20806,2024-08-10,South,Home Office,Technology,Brother Laser Printer,2,0.05,583.04
+ORD-21092,2024-08-10,South,Home Office,Furniture,Office Star Ergonomic Chair,3,0.15,524.67
+ORD-20458,2024-08-10,West,Consumer,Furniture,Sauder Bookcase,5,0.0,777.71
+ORD-20720,2024-08-11,West,Consumer,Office Supplies,Avery Durable Binder,1,0.2,12.62
+ORD-20627,2024-08-11,Central,Corporate,Furniture,Bush Advantage Collection Table,1,0.1,387.52
+ORD-21029,2024-08-12,East,Consumer,Office Supplies,GBC DocuBind TL300,9,0.0,1278.91
+ORD-20215,2024-08-12,Central,Home Office,Office Supplies,Wilson Jones Legal Size Ring Binders,1,0.3,16.78
+ORD-21453,2024-08-12,West,Home Office,Furniture,Global Troy Executive Leather Chair,9,0.2,2300.79
+ORD-20509,2024-08-12,East,Consumer,Furniture,Bush Advantage Collection Table,2,0.1,772.13
+ORD-21280,2024-08-12,West,Home Office,Furniture,Bush Advantage Collection Table,5,0.0,1998.44
+ORD-20846,2024-08-14,West,Corporate,Technology,Cisco TelePresence System,3,0.05,3506.58
+ORD-20002,2024-08-15,Central,Corporate,Technology,Anker USB-C Hub,3,0.15,113.63
+ORD-20447,2024-08-16,West,Consumer,Office Supplies,Wilson Jones Legal Size Ring Binders,10,0.05,202.27
+ORD-20397,2024-08-16,East,Corporate,Furniture,Bush Advantage Collection Table,1,0.15,310.79
+ORD-21204,2024-08-17,Central,Corporate,Office Supplies,Smead Hanging File Folder,6,0.1,87.89
+ORD-21290,2024-08-17,West,Corporate,Furniture,Bush Advantage Collection Table,3,0.1,1111.58
+ORD-21311,2024-08-17,Central,Home Office,Technology,Logitech Wireless Mouse,4,0.3,108.67
+ORD-20774,2024-08-18,West,Home Office,Office Supplies,Desk Organizer Set,6,0.05,130.08
+ORD-21479,2024-08-19,Central,Corporate,Furniture,HON 5400 Series Task Chairs,5,0.15,1215.73
+ORD-21195,2024-08-19,Central,Consumer,Office Supplies,Avery Durable Binder,10,0.05,155.75
+ORD-20662,2024-08-20,West,Home Office,Technology,Anker USB-C Hub,3,0.1,128.84
+ORD-21115,2024-08-21,Central,Corporate,Office Supplies,GBC DocuBind TL300,1,0.05,116.2
+ORD-20869,2024-08-22,South,Corporate,Technology,HP LaserJet 3310,6,0.05,3193.38
+ORD-21495,2024-08-23,West,Home Office,Furniture,Sauder Bookcase,4,0.0,734.59
+ORD-21301,2024-08-24,West,Consumer,Furniture,HON 5400 Series Task Chairs,7,0.3,1504.98
+ORD-20276,2024-08-24,East,Home Office,Office Supplies,Avery Durable Binder,9,0.0,147.47
+ORD-20594,2024-08-26,South,Consumer,Technology,Logitech Wireless Mouse,10,0.0,356.84
+ORD-21186,2024-08-27,Central,Corporate,Furniture,HON 5400 Series Task Chairs,9,0.0,2542.98
+ORD-20567,2024-08-27,Central,Home Office,Furniture,HON 5400 Series Task Chairs,5,0.0,1586.91
+ORD-21255,2024-08-28,Central,Corporate,Furniture,HON 5400 Series Task Chairs,10,0.0,2521.65
+ORD-20027,2024-08-28,South,Consumer,Technology,Samsung Galaxy Phone,5,0.0,3543.87
+ORD-21079,2024-08-29,Central,Corporate,Office Supplies,Staples File Folders,7,0.1,69.81
+ORD-21019,2024-08-30,South,Home Office,Office Supplies,Fellowes PB500 Binding Machine,7,0.2,921.02
+ORD-20745,2024-08-30,Central,Home Office,Technology,Cisco TelePresence System,8,0.15,7994.29
+ORD-20116,2024-08-30,Central,Consumer,Office Supplies,GBC DocuBind TL300,5,0.3,430.4
+ORD-21460,2024-08-31,Central,Consumer,Technology,Canon imageCLASS 2200,5,0.3,3237.26
+ORD-21464,2024-09-01,Central,Home Office,Office Supplies,GBC DocuBind TL300,2,0.2,217.57
+ORD-20613,2024-09-02,South,Home Office,Furniture,Sauder Bookcase,4,0.0,761.18
+ORD-20156,2024-09-03,West,Corporate,Technology,Brother Laser Printer,8,0.2,2054.42
+ORD-20442,2024-09-04,South,Consumer,Technology,Samsung Galaxy Phone,3,0.0,1706.78
+ORD-21175,2024-09-04,South,Consumer,Technology,Cisco TelePresence System,4,0.05,5214.77
+ORD-20553,2024-09-05,West,Home Office,Technology,HP LaserJet 3310,6,0.15,2747.98
+ORD-21471,2024-09-05,West,Corporate,Technology,Canon imageCLASS 2200,7,0.1,5582.35
+ORD-21441,2024-09-06,Central,Consumer,Technology,Cisco TelePresence System,4,0.0,5393.14
+ORD-21196,2024-09-07,Central,Corporate,Office Supplies,Smead Hanging File Folder,1,0.0,15.57
+ORD-20464,2024-09-07,East,Corporate,Technology,Epson WorkForce Printer,10,0.3,1800.48
+ORD-20849,2024-09-08,West,Corporate,Furniture,Office Star Ergonomic Chair,2,0.0,460.97
+ORD-20633,2024-09-09,West,Consumer,Office Supplies,GBC DocuBind TL300,5,0.0,651.8
+ORD-21488,2024-09-10,Central,Consumer,Furniture,Bush Advantage Collection Table,9,0.15,2789.14
+ORD-20101,2024-09-10,West,Corporate,Office Supplies,GBC DocuBind TL300,2,0.05,280.55
+ORD-20147,2024-09-10,South,Consumer,Technology,Brother Laser Printer,4,0.05,1057.12
+ORD-21234,2024-09-10,Central,Home Office,Office Supplies,Smead Hanging File Folder,9,0.1,118.39
+ORD-20280,2024-09-11,South,Home Office,Furniture,Global Troy Executive Leather Chair,3,0.05,950.01
+ORD-20583,2024-09-14,West,Home Office,Technology,Logitech Wireless Mouse,10,0.1,321.64
+ORD-20150,2024-09-15,South,Home Office,Furniture,Office Star Ergonomic Chair,10,0.0,2413.42
+ORD-20955,2024-09-16,West,Corporate,Technology,HP LaserJet 3310,7,0.2,2621.2
+ORD-20859,2024-09-16,West,Home Office,Technology,Brother Laser Printer,6,0.15,1486.14
+ORD-20258,2024-09-17,South,Consumer,Technology,HP LaserJet 3310,4,0.0,2218.55
+ORD-20494,2024-09-18,Central,Corporate,Technology,Canon imageCLASS 2200,3,0.05,2771.22
+ORD-21318,2024-09-21,West,Home Office,Technology,Cisco TelePresence System,7,0.15,7101.35
+ORD-20826,2024-09-21,Central,Home Office,Office Supplies,Desk Organizer Set,9,0.1,230.33
+ORD-20421,2024-09-22,Central,Corporate,Technology,Samsung Galaxy Phone,10,0.3,4636.11
+ORD-21148,2024-09-22,South,Corporate,Office Supplies,Fellowes PB500 Binding Machine,5,0.1,958.58
+ORD-21298,2024-09-24,East,Home Office,Technology,Cisco TelePresence System,9,0.0,10786.13
+ORD-20037,2024-09-25,South,Home Office,Furniture,Sauder Bookcase,4,0.0,760.49
+ORD-20435,2024-09-25,South,Corporate,Office Supplies,Wilson Jones Legal Size Ring Binders,10,0.05,206.97
+ORD-20814,2024-09-26,South,Home Office,Technology,Samsung Galaxy Phone,4,0.0,2665.13
+ORD-20198,2024-09-26,West,Consumer,Technology,Samsung Galaxy Phone,10,0.15,5275.72
+ORD-20477,2024-09-26,South,Consumer,Office Supplies,Desk Organizer Set,3,0.3,59.2
+ORD-20074,2024-09-27,West,Home Office,Technology,Canon imageCLASS 2200,6,0.1,4078.71
+ORD-20179,2024-09-27,South,Corporate,Furniture,Office Star Ergonomic Chair,5,0.2,789.65
+ORD-20409,2024-09-27,East,Consumer,Technology,Logitech Wireless Mouse,7,0.05,259.04
+ORD-20917,2024-09-28,Central,Home Office,Technology,Anker USB-C Hub,10,0.15,422.87
+ORD-20013,2024-09-29,South,Home Office,Furniture,Office Star Ergonomic Chair,2,0.1,328.84
+ORD-20609,2024-09-29,South,Home Office,Technology,Samsung Galaxy Phone,3,0.0,1888.51
+ORD-21276,2024-10-01,West,Consumer,Technology,Samsung Galaxy Phone,9,0.05,5868.76
+ORD-20610,2024-10-02,Central,Corporate,Furniture,Global Troy Executive Leather Chair,4,0.0,1646.85
+ORD-20093,2024-10-02,West,Corporate,Technology,Brother Laser Printer,4,0.05,1044.84
+ORD-20637,2024-10-03,East,Consumer,Technology,Canon imageCLASS 2200,4,0.3,2203.28
+ORD-20184,2024-10-03,South,Corporate,Office Supplies,Wilson Jones Legal Size Ring Binders,6,0.3,89.53
+ORD-20511,2024-10-03,East,Corporate,Office Supplies,GBC DocuBind TL300,1,0.15,120.8
+ORD-21336,2024-10-05,East,Consumer,Furniture,Bush Advantage Collection Table,2,0.0,896.3
+ORD-20457,2024-10-05,South,Consumer,Office Supplies,Desk Organizer Set,3,0.05,75.61
+ORD-21275,2024-10-05,South,Home Office,Office Supplies,Avery Durable Binder,8,0.15,122.29
+ORD-20590,2024-10-07,East,Consumer,Technology,Samsung Galaxy Phone,6,0.0,3244.36
+ORD-20072,2024-10-07,West,Corporate,Technology,HP LaserJet 3310,9,0.3,3701.64
+ORD-20057,2024-10-07,South,Consumer,Furniture,HON 5400 Series Task Chairs,8,0.0,2471.37
+ORD-21332,2024-10-08,West,Corporate,Office Supplies,Fellowes PB500 Binding Machine,10,0.15,1585.65
+ORD-20982,2024-10-09,West,Home Office,Furniture,Office Star Ergonomic Chair,8,0.3,1121.32
+ORD-20026,2024-10-11,Central,Consumer,Furniture,Office Star Ergonomic Chair,6,0.1,1165.8
+ORD-20223,2024-10-14,East,Corporate,Office Supplies,Avery Durable Binder,8,0.3,99.29
+ORD-20405,2024-10-15,South,Home Office,Technology,Brother Laser Printer,5,0.0,1339.1
+ORD-20475,2024-10-15,West,Corporate,Technology,Logitech Wireless Mouse,4,0.3,103.04
+ORD-21374,2024-10-16,East,Corporate,Technology,Samsung Galaxy Phone,8,0.15,3668.81
+ORD-21393,2024-10-17,South,Home Office,Office Supplies,GBC DocuBind TL300,2,0.3,194.14
+ORD-20987,2024-10-17,South,Consumer,Furniture,Sauder Bookcase,4,0.05,642.11
+ORD-21288,2024-10-17,East,Corporate,Technology,Logitech Wireless Mouse,1,0.05,32.22
+ORD-20724,2024-10-18,East,Corporate,Furniture,Sauder Bookcase,4,0.05,595.37
+ORD-20732,2024-10-19,East,Consumer,Technology,Epson WorkForce Printer,3,0.3,613.35
+ORD-21233,2024-10-19,South,Consumer,Furniture,Bush Advantage Collection Table,8,0.0,3360.28
+ORD-20501,2024-10-19,Central,Corporate,Office Supplies,Wilson Jones Legal Size Ring Binders,2,0.2,40.22
+ORD-20766,2024-10-19,East,Corporate,Office Supplies,Smead Hanging File Folder,4,0.1,59.44
+ORD-20437,2024-10-19,Central,Home Office,Office Supplies,Fellowes PB500 Binding Machine,1,0.0,168.14
+ORD-21190,2024-10-20,East,Home Office,Office Supplies,Desk Organizer Set,3,0.0,69.99
+ORD-20070,2024-10-21,West,Corporate,Office Supplies,Smead Hanging File Folder,1,0.15,11.35
+ORD-20653,2024-10-23,West,Corporate,Furniture,Bush Advantage Collection Table,6,0.05,2066.86
+ORD-21050,2024-10-23,South,Consumer,Technology,Brother Laser Printer,9,0.15,2069.53
+ORD-20170,2024-10-24,Central,Home Office,Technology,Epson WorkForce Printer,7,0.05,1672.61
+ORD-20343,2024-10-25,South,Corporate,Office Supplies,Staples File Folders,8,0.3,72.13
+ORD-20957,2024-10-25,West,Corporate,Technology,Samsung Galaxy Phone,4,0.15,2264.33
+ORD-20679,2024-10-25,Central,Corporate,Office Supplies,Staples File Folders,2,0.15,18.82
+ORD-20030,2024-10-26,East,Corporate,Office Supplies,Wilson Jones Legal Size Ring Binders,9,0.2,160.56
+ORD-21404,2024-10-28,South,Home Office,Technology,Logitech Wireless Mouse,7,0.0,254.31
+ORD-20533,2024-10-28,South,Consumer,Office Supplies,Fellowes PB500 Binding Machine,6,0.0,1038.13
+ORD-21428,2024-10-29,East,Consumer,Technology,Cisco TelePresence System,4,0.0,5385.16
+ORD-20463,2024-10-30,East,Consumer,Technology,HP LaserJet 3310,7,0.0,3338.21
+ORD-20632,2024-10-30,East,Corporate,Technology,Epson WorkForce Printer,8,0.15,2023.98
+ORD-21269,2024-10-31,West,Corporate,Office Supplies,Desk Organizer Set,8,0.1,203.76
+ORD-20003,2024-11-01,Central,Consumer,Technology,Samsung Galaxy Phone,2,0.3,822.56
+ORD-20753,2024-11-01,West,Corporate,Office Supplies,Staples File Folders,8,0.2,66.08
+ORD-20157,2024-11-03,Central,Home Office,Office Supplies,GBC DocuBind TL300,8,0.0,989.22
+ORD-21440,2024-11-03,East,Home Office,Office Supplies,Fellowes PB500 Binding Machine,8,0.2,1234.63
+ORD-20485,2024-11-03,Central,Corporate,Technology,Samsung Galaxy Phone,9,0.0,5650.9
+ORD-20062,2024-11-04,South,Corporate,Furniture,Bush Advantage Collection Table,9,0.1,3286.06
+ORD-21202,2024-11-05,East,Corporate,Technology,Canon imageCLASS 2200,7,0.0,5765.33
+ORD-20725,2024-11-05,Central,Consumer,Office Supplies,Avery Durable Binder,2,0.15,32.02
+ORD-20360,2024-11-08,Central,Home Office,Technology,Canon imageCLASS 2200,3,0.05,2710.18
+ORD-21417,2024-11-08,Central,Corporate,Technology,Anker USB-C Hub,8,0.3,305.87
+ORD-20883,2024-11-10,East,Home Office,Technology,Cisco TelePresence System,8,0.3,6815.52
+ORD-20382,2024-11-11,East,Consumer,Technology,Cisco TelePresence System,10,0.3,7795.21
+ORD-20545,2024-11-12,Central,Home Office,Technology,Anker USB-C Hub,1,0.15,36.73
+ORD-20836,2024-11-12,West,Corporate,Technology,Epson WorkForce Printer,5,0.0,1291.39
+ORD-20254,2024-11-13,South,Consumer,Furniture,HON 5400 Series Task Chairs,10,0.3,1816.88
+ORD-20061,2024-11-14,West,Corporate,Office Supplies,Smead Hanging File Folder,8,0.0,135.47
+ORD-20443,2024-11-14,South,Home Office,Office Supplies,Fellowes PB500 Binding Machine,2,0.3,277.17
+ORD-21180,2024-11-14,Central,Consumer,Technology,Brother Laser Printer,8,0.0,2478.22
+ORD-20371,2024-11-14,East,Corporate,Technology,Samsung Galaxy Phone,2,0.0,1362.27
+ORD-20356,2024-11-15,West,Consumer,Technology,HP LaserJet 3310,3,0.05,1664.88
+ORD-20928,2024-11-15,West,Consumer,Technology,Samsung Galaxy Phone,7,0.05,3555.63
+ORD-20635,2024-11-16,Central,Consumer,Furniture,Bush Advantage Collection Table,2,0.2,600.15
+ORD-20907,2024-11-18,South,Consumer,Technology,Cisco TelePresence System,3,0.05,3640.87
+ORD-20868,2024-11-19,Central,Corporate,Office Supplies,Avery Durable Binder,7,0.3,98.58
+ORD-20336,2024-11-20,West,Corporate,Office Supplies,Avery Durable Binder,7,0.3,82.07
+ORD-20274,2024-11-22,South,Corporate,Technology,Brother Laser Printer,9,0.05,2852.12
+ORD-20651,2024-11-23,East,Home Office,Technology,Epson WorkForce Printer,1,0.1,266.64
+ORD-21122,2024-11-24,East,Consumer,Technology,Epson WorkForce Printer,3,0.15,642.26
+ORD-20340,2024-11-25,Central,Consumer,Technology,Samsung Galaxy Phone,6,0.0,3564.56
+ORD-20125,2024-11-25,West,Consumer,Office Supplies,Staples File Folders,3,0.0,34.37
+ORD-20657,2024-11-25,Central,Corporate,Technology,Epson WorkForce Printer,3,0.1,761.38
+ORD-20670,2024-11-25,Central,Corporate,Technology,HP LaserJet 3310,3,0.2,1311.2
+ORD-21406,2024-11-26,South,Home Office,Furniture,Bush Advantage Collection Table,5,0.05,1786.27
+ORD-20380,2024-11-27,Central,Consumer,Office Supplies,Staples File Folders,7,0.15,67.76
+ORD-20815,2024-11-27,Central,Corporate,Office Supplies,Desk Organizer Set,5,0.3,92.81
+ORD-20079,2024-11-28,West,Corporate,Office Supplies,Smead Hanging File Folder,5,0.0,75.36
+ORD-20321,2024-11-29,South,Corporate,Office Supplies,Staples File Folders,5,0.0,57.53
+ORD-21359,2024-11-30,Central,Home Office,Technology,Brother Laser Printer,8,0.3,1675.2
+ORD-20152,2024-11-30,South,Consumer,Office Supplies,Desk Organizer Set,10,0.05,242.68
+ORD-20373,2024-12-01,Central,Corporate,Office Supplies,Desk Organizer Set,3,0.1,70.17
+ORD-21134,2024-12-02,West,Home Office,Technology,Epson WorkForce Printer,9,0.2,1659.47
+ORD-21037,2024-12-02,East,Consumer,Technology,Samsung Galaxy Phone,7,0.15,3860.83
+ORD-21265,2024-12-05,West,Consumer,Technology,Logitech Wireless Mouse,8,0.1,255.53
+ORD-20492,2024-12-06,East,Home Office,Furniture,Sauder Bookcase,5,0.0,996.6
+ORD-21165,2024-12-06,West,Home Office,Technology,Samsung Galaxy Phone,5,0.15,2549.78
+ORD-20754,2024-12-07,South,Home Office,Technology,Canon imageCLASS 2200,9,0.3,6115.33
+ORD-21445,2024-12-08,East,Home Office,Office Supplies,Wilson Jones Legal Size Ring Binders,5,0.1,99.41
+ORD-20801,2024-12-09,South,Consumer,Office Supplies,Staples File Folders,9,0.1,92.59
+ORD-21327,2024-12-11,Central,Consumer,Office Supplies,Desk Organizer Set,1,0.3,15.79
+ORD-20470,2024-12-13,East,Consumer,Office Supplies,Wilson Jones Legal Size Ring Binders,1,0.1,19.46
+ORD-21027,2024-12-13,South,Home Office,Technology,Cisco TelePresence System,4,0.3,2986.78
+ORD-20680,2024-12-15,Central,Home Office,Technology,Brother Laser Printer,4,0.0,1351.1
+ORD-21277,2024-12-15,West,Corporate,Technology,Cisco TelePresence System,6,0.1,7184.58
+ORD-20188,2024-12-16,Central,Consumer,Technology,Anker USB-C Hub,9,0.15,420.18
+ORD-20459,2024-12-16,East,Corporate,Technology,Samsung Galaxy Phone,5,0.0,3006.87
+ORD-20287,2024-12-18,Central,Home Office,Office Supplies,GBC DocuBind TL300,10,0.1,1203.11
+ORD-20036,2024-12-18,West,Home Office,Technology,Brother Laser Printer,1,0.15,257.62
+ORD-20047,2024-12-21,West,Consumer,Technology,Samsung Galaxy Phone,8,0.0,5019.09
+ORD-20393,2024-12-21,Central,Home Office,Technology,Logitech Wireless Mouse,10,0.15,254.36
+ORD-21388,2024-12-23,South,Consumer,Furniture,Bush Advantage Collection Table,7,0.3,1984.19
+ORD-21149,2024-12-26,Central,Home Office,Office Supplies,Avery Durable Binder,9,0.15,131.67
+ORD-21095,2024-12-26,East,Corporate,Technology,Epson WorkForce Printer,2,0.3,329.98
+ORD-20420,2024-12-26,East,Corporate,Technology,Cisco TelePresence System,9,0.2,7630.75
+ORD-20362,2024-12-26,East,Home Office,Office Supplies,Wilson Jones Legal Size Ring Binders,7,0.0,151.8
+ORD-21433,2024-12-27,West,Corporate,Technology,Logitech Wireless Mouse,1,0.2,29.32
+ORD-21385,2024-12-28,East,Consumer,Technology,Epson WorkForce Printer,3,0.3,547.72
+ORD-20788,2024-12-28,East,Corporate,Technology,Epson WorkForce Printer,9,0.05,2265.02
+ORD-20451,2024-12-28,South,Home Office,Technology,HP LaserJet 3310,9,0.15,3619.15
+ORD-20967,2024-12-29,South,Consumer,Furniture,Office Star Ergonomic Chair,3,0.2,579.11
+ORD-21348,2024-12-29,Central,Consumer,Furniture,HON 5400 Series Task Chairs,6,0.2,1319.7
+ORD-20718,2025-01-02,South,Corporate,Office Supplies,GBC DocuBind TL300,6,0.0,708.19
+ORD-20696,2025-01-02,East,Consumer,Office Supplies,Wilson Jones Legal Size Ring Binders,8,0.1,164.21
+ORD-20448,2025-01-03,South,Corporate,Furniture,Global Troy Executive Leather Chair,4,0.3,981.86
+ORD-20924,2025-01-03,East,Consumer,Technology,Logitech Wireless Mouse,5,0.2,146.5
+ORD-20183,2025-01-04,South,Corporate,Furniture,Office Star Ergonomic Chair,2,0.0,370.78
+ORD-20645,2025-01-05,East,Consumer,Furniture,Bush Advantage Collection Table,9,0.0,4200.05
+ORD-20283,2025-01-06,Central,Home Office,Technology,Canon imageCLASS 2200,8,0.05,6545.09
+ORD-20497,2025-01-07,Central,Home Office,Office Supplies,Staples File Folders,5,0.2,46.92
+ORD-20642,2025-01-08,Central,Corporate,Technology,Brother Laser Printer,10,0.0,3300.31
+ORD-20934,2025-01-08,East,Home Office,Furniture,Office Star Ergonomic Chair,1,0.0,228.34
+ORD-20999,2025-01-08,Central,Home Office,Technology,Anker USB-C Hub,1,0.3,38.48
+ORD-21215,2025-01-09,West,Consumer,Furniture,Global Troy Executive Leather Chair,7,0.2,2219.47
+ORD-21093,2025-01-09,South,Consumer,Technology,Epson WorkForce Printer,9,0.15,2109.47
+ORD-20560,2025-01-11,South,Corporate,Technology,Brother Laser Printer,9,0.05,2964.32
+ORD-21403,2025-01-12,South,Consumer,Office Supplies,Desk Organizer Set,1,0.05,27.93
+ORD-21247,2025-01-12,West,Corporate,Technology,HP LaserJet 3310,7,0.3,2643.09
+ORD-21458,2025-01-12,East,Home Office,Technology,HP LaserJet 3310,3,0.05,1647.12
+ORD-21129,2025-01-13,East,Corporate,Office Supplies,Smead Hanging File Folder,3,0.0,42.92
+ORD-20479,2025-01-14,West,Corporate,Furniture,Global Troy Executive Leather Chair,6,0.3,1451.44
+ORD-20970,2025-01-15,South,Consumer,Furniture,Bush Advantage Collection Table,9,0.0,3890.31
+ORD-21025,2025-01-16,East,Home Office,Technology,Brother Laser Printer,10,0.3,1863.6
+ORD-20406,2025-01-16,Central,Corporate,Technology,Epson WorkForce Printer,7,0.2,1508.28
+ORD-21342,2025-01-16,Central,Consumer,Office Supplies,Fellowes PB500 Binding Machine,5,0.15,746.81
+ORD-21043,2025-01-17,West,Consumer,Furniture,HON 5400 Series Task Chairs,2,0.05,545.5
+ORD-20901,2025-01-17,East,Home Office,Furniture,Bush Advantage Collection Table,3,0.05,1025.9
+ORD-20149,2025-01-18,South,Corporate,Office Supplies,GBC DocuBind TL300,4,0.2,458.49
+ORD-20176,2025-01-23,Central,Consumer,Technology,Anker USB-C Hub,5,0.3,173.83
+ORD-20376,2025-01-23,West,Consumer,Technology,Brother Laser Printer,1,0.1,241.13
+ORD-20524,2025-01-24,East,Corporate,Office Supplies,Avery Durable Binder,8,0.0,165.08
+ORD-20113,2025-01-24,South,Home Office,Office Supplies,Wilson Jones Legal Size Ring Binders,9,0.2,145.18
+ORD-20092,2025-01-24,West,Corporate,Technology,Logitech Wireless Mouse,6,0.0,206.19
+ORD-20857,2025-01-25,South,Corporate,Technology,Epson WorkForce Printer,4,0.0,981.35
+ORD-20392,2025-01-26,Central,Corporate,Furniture,HON 5400 Series Task Chairs,8,0.2,2011.51
+ORD-20284,2025-01-26,Central,Consumer,Technology,Logitech Wireless Mouse,7,0.0,280.06
+ORD-20024,2025-01-26,East,Home Office,Technology,HP LaserJet 3310,8,0.3,3334.05
+ORD-21358,2025-01-27,South,Consumer,Office Supplies,Wilson Jones Legal Size Ring Binders,4,0.15,75.94
+ORD-20667,2025-01-28,Central,Home Office,Furniture,Sauder Bookcase,9,0.3,1172.68
+ORD-21185,2025-01-29,East,Corporate,Technology,Cisco TelePresence System,3,0.05,3152.44
+ORD-20244,2025-01-29,East,Home Office,Furniture,Office Star Ergonomic Chair,5,0.15,978.05
+ORD-20675,2025-01-30,South,Corporate,Office Supplies,Desk Organizer Set,3,0.05,84.66
+ORD-20425,2025-01-31,South,Home Office,Furniture,Global Troy Executive Leather Chair,5,0.15,1573.24
+ORD-21040,2025-01-31,West,Consumer,Technology,Cisco TelePresence System,7,0.0,7405.05
+ORD-21283,2025-02-02,West,Consumer,Office Supplies,GBC DocuBind TL300,7,0.3,555.22
+ORD-21491,2025-02-03,West,Home Office,Furniture,Global Troy Executive Leather Chair,9,0.0,3050.32
+ORD-20875,2025-02-03,Central,Consumer,Technology,Canon imageCLASS 2200,9,0.1,6009.68
+ORD-20419,2025-02-03,South,Corporate,Office Supplies,Smead Hanging File Folder,1,0.15,14.41
+ORD-20900,2025-02-05,Central,Home Office,Technology,Samsung Galaxy Phone,6,0.15,3060.49
+ORD-21411,2025-02-06,Central,Consumer,Office Supplies,Avery Durable Binder,8,0.05,121.29
+ORD-21210,2025-02-07,South,Home Office,Furniture,HON 5400 Series Task Chairs,1,0.2,217.08
+ORD-20853,2025-02-07,East,Home Office,Technology,Cisco TelePresence System,10,0.1,10155.39
+ORD-21220,2025-02-07,East,Home Office,Office Supplies,Wilson Jones Legal Size Ring Binders,2,0.05,43.61
+ORD-20829,2025-02-08,Central,Corporate,Office Supplies,GBC DocuBind TL300,6,0.05,634.46
+ORD-20068,2025-02-09,East,Corporate,Office Supplies,Smead Hanging File Folder,6,0.0,85.36
+ORD-20151,2025-02-09,South,Consumer,Furniture,Sauder Bookcase,6,0.2,965.5
+ORD-21176,2025-02-09,Central,Corporate,Technology,Brother Laser Printer,6,0.0,1851.1
+ORD-21249,2025-02-09,South,Home Office,Office Supplies,Desk Organizer Set,9,0.0,264.97
+ORD-21468,2025-02-09,South,Corporate,Technology,Anker USB-C Hub,7,0.3,229.38
+ORD-20521,2025-02-10,Central,Consumer,Furniture,Global Troy Executive Leather Chair,1,0.3,229.1
+ORD-20302,2025-02-10,East,Consumer,Office Supplies,Staples File Folders,5,0.05,64.53
+ORD-21062,2025-02-11,Central,Corporate,Technology,Brother Laser Printer,9,0.0,2753.58
+ORD-21294,2025-02-11,East,Home Office,Furniture,Office Star Ergonomic Chair,2,0.1,362.07
+ORD-21369,2025-02-11,South,Corporate,Furniture,Office Star Ergonomic Chair,7,0.05,1389.76
+ORD-20476,2025-02-13,Central,Consumer,Technology,Brother Laser Printer,8,0.0,2619.66
+ORD-21264,2025-02-13,West,Consumer,Technology,Cisco TelePresence System,6,0.05,7152.5
+ORD-20345,2025-02-14,West,Consumer,Technology,Anker USB-C Hub,2,0.0,86.26
+ORD-20129,2025-02-14,South,Corporate,Furniture,Sauder Bookcase,6,0.15,1025.24
+ORD-20573,2025-02-15,East,Corporate,Technology,Logitech Wireless Mouse,1,0.2,31.43
+ORD-21132,2025-02-15,Central,Corporate,Office Supplies,Smead Hanging File Folder,8,0.05,108.0
+ORD-20504,2025-02-15,Central,Corporate,Furniture,Office Star Ergonomic Chair,10,0.3,1492.71
+ORD-20441,2025-02-16,East,Corporate,Technology,Epson WorkForce Printer,2,0.2,367.55
+ORD-20449,2025-02-16,South,Consumer,Furniture,Sauder Bookcase,4,0.0,671.47
+ORD-20226,2025-02-17,Central,Consumer,Technology,Cisco TelePresence System,4,0.0,5264.44
+ORD-21338,2025-02-20,Central,Home Office,Technology,HP LaserJet 3310,4,0.3,1404.47
+ORD-20913,2025-02-20,West,Home Office,Technology,Canon imageCLASS 2200,5,0.1,3464.54
+ORD-20980,2025-02-20,East,Home Office,Technology,Anker USB-C Hub,8,0.05,397.43
+ORD-21232,2025-02-21,Central,Corporate,Office Supplies,Desk Organizer Set,4,0.2,92.76
+ORD-21416,2025-02-22,South,Corporate,Technology,Epson WorkForce Printer,6,0.3,1134.03
+ORD-20517,2025-02-23,East,Home Office,Furniture,Sauder Bookcase,1,0.2,124.38
+ORD-20377,2025-02-23,East,Consumer,Furniture,Office Star Ergonomic Chair,1,0.0,213.9
+ORD-20751,2025-02-24,West,Corporate,Technology,Brother Laser Printer,7,0.2,1631.72
+ORD-21080,2025-02-25,East,Consumer,Technology,Brother Laser Printer,1,0.2,211.15
+ORD-21362,2025-02-25,Central,Consumer,Technology,Cisco TelePresence System,5,0.3,4616.1
+ORD-20017,2025-02-26,Central,Corporate,Office Supplies,Desk Organizer Set,5,0.2,117.38
+ORD-20624,2025-02-27,West,Home Office,Office Supplies,Desk Organizer Set,9,0.2,160.59
+ORD-20946,2025-02-27,West,Corporate,Office Supplies,Desk Organizer Set,10,0.0,290.37
+ORD-21309,2025-02-28,Central,Home Office,Furniture,Global Troy Executive Leather Chair,2,0.1,713.52
+ORD-21108,2025-03-01,West,Home Office,Office Supplies,GBC DocuBind TL300,5,0.0,562.39
+ORD-20760,2025-03-01,East,Home Office,Technology,Anker USB-C Hub,9,0.2,379.16
+ORD-20206,2025-03-02,West,Corporate,Technology,Samsung Galaxy Phone,1,0.3,469.91
+ORD-20669,2025-03-03,Central,Consumer,Office Supplies,Avery Durable Binder,1,0.0,17.75
+ORD-20084,2025-03-04,West,Home Office,Furniture,Sauder Bookcase,8,0.05,1265.99
+ORD-20643,2025-03-04,South,Consumer,Office Supplies,GBC DocuBind TL300,2,0.15,196.28
+ORD-20557,2025-03-04,East,Consumer,Furniture,Office Star Ergonomic Chair,2,0.0,393.5
+ORD-20810,2025-03-06,West,Corporate,Technology,Brother Laser Printer,3,0.2,668.55
+ORD-20338,2025-03-06,East,Home Office,Technology,Brother Laser Printer,5,0.0,1371.74
+ORD-20695,2025-03-07,South,Home Office,Office Supplies,Smead Hanging File Folder,7,0.0,101.81
+ORD-21456,2025-03-08,Central,Consumer,Technology,HP LaserJet 3310,2,0.0,1226.48
+ORD-20998,2025-03-08,East,Corporate,Office Supplies,Wilson Jones Legal Size Ring Binders,5,0.0,97.09
+ORD-21482,2025-03-09,West,Corporate,Furniture,Office Star Ergonomic Chair,4,0.3,600.57
+ORD-20359,2025-03-10,Central,Consumer,Office Supplies,Fellowes PB500 Binding Machine,5,0.1,874.43
+ORD-21251,2025-03-10,East,Consumer,Technology,Logitech Wireless Mouse,9,0.3,212.81
+ORD-20551,2025-03-10,South,Consumer,Furniture,Office Star Ergonomic Chair,2,0.3,337.48
+ORD-20503,2025-03-10,South,Consumer,Office Supplies,Avery Durable Binder,4,0.2,55.79
+ORD-20115,2025-03-11,East,Home Office,Technology,Anker USB-C Hub,7,0.0,372.69
+ORD-21059,2025-03-11,Central,Corporate,Technology,Brother Laser Printer,1,0.1,312.91
+ORD-20886,2025-03-11,East,Corporate,Office Supplies,Fellowes PB500 Binding Machine,9,0.2,1211.15
+ORD-20133,2025-03-12,West,Home Office,Furniture,Sauder Bookcase,10,0.3,1115.45
+ORD-20112,2025-03-13,Central,Corporate,Office Supplies,Smead Hanging File Folder,6,0.1,88.91
+ORD-20805,2025-03-13,Central,Home Office,Furniture,Sauder Bookcase,5,0.0,893.0
+ORD-21490,2025-03-13,Central,Home Office,Technology,Logitech Wireless Mouse,9,0.05,285.5
+ORD-20969,2025-03-14,South,Home Office,Technology,Anker USB-C Hub,1,0.2,42.94
+ORD-20639,2025-03-15,East,Home Office,Technology,HP LaserJet 3310,5,0.3,1706.52
+ORD-21012,2025-03-17,East,Home Office,Technology,Anker USB-C Hub,2,0.3,63.5
+ORD-20452,2025-03-19,East,Home Office,Office Supplies,Avery Durable Binder,2,0.2,27.97
+ORD-20328,2025-03-19,Central,Consumer,Technology,Anker USB-C Hub,10,0.05,437.06
+ORD-20233,2025-03-21,West,Home Office,Technology,Brother Laser Printer,9,0.0,3077.7
+ORD-20605,2025-03-22,West,Consumer,Furniture,HON 5400 Series Task Chairs,5,0.3,1018.83
+ORD-20995,2025-03-25,West,Home Office,Office Supplies,Desk Organizer Set,4,0.15,76.54
+ORD-20535,2025-03-25,South,Corporate,Furniture,Bush Advantage Collection Table,9,0.1,3778.46
+ORD-20348,2025-03-25,Central,Corporate,Furniture,HON 5400 Series Task Chairs,2,0.0,573.08
+ORD-20860,2025-03-28,Central,Home Office,Technology,Logitech Wireless Mouse,8,0.05,294.78
+ORD-20646,2025-03-29,East,Corporate,Technology,Logitech Wireless Mouse,10,0.3,279.7
+ORD-20288,2025-03-30,Central,Consumer,Office Supplies,Smead Hanging File Folder,7,0.0,114.71
+ORD-21151,2025-04-02,South,Consumer,Office Supplies,Smead Hanging File Folder,6,0.0,79.62
+ORD-20331,2025-04-02,Central,Home Office,Technology,Anker USB-C Hub,7,0.0,386.3
+ORD-20617,2025-04-03,South,Home Office,Office Supplies,Desk Organizer Set,9,0.05,228.06
+ORD-21324,2025-04-04,West,Corporate,Furniture,Bush Advantage Collection Table,7,0.0,2790.64
+ORD-20549,2025-04-05,Central,Home Office,Office Supplies,Avery Durable Binder,10,0.0,183.1
+ORD-20466,2025-04-05,Central,Consumer,Technology,HP LaserJet 3310,8,0.0,3974.6
+ORD-21322,2025-04-07,Central,Corporate,Technology,HP LaserJet 3310,2,0.3,846.74
+ORD-20893,2025-04-07,East,Consumer,Technology,Logitech Wireless Mouse,2,0.1,59.01
+ORD-20433,2025-04-07,South,Corporate,Furniture,Bush Advantage Collection Table,2,0.15,796.3
+ORD-21407,2025-04-09,Central,Consumer,Technology,Canon imageCLASS 2200,7,0.15,5486.94
+ORD-20055,2025-04-09,South,Home Office,Technology,Epson WorkForce Printer,1,0.3,185.75
+ORD-21350,2025-04-09,West,Corporate,Office Supplies,Wilson Jones Legal Size Ring Binders,5,0.2,79.57
+ORD-20333,2025-04-09,Central,Consumer,Office Supplies,Avery Durable Binder,5,0.0,84.95
+ORD-20690,2025-04-10,Central,Home Office,Furniture,Office Star Ergonomic Chair,2,0.0,439.71
+ORD-21137,2025-04-10,East,Corporate,Office Supplies,Staples File Folders,10,0.05,102.62
+ORD-20965,2025-04-11,Central,Corporate,Office Supplies,Desk Organizer Set,8,0.15,181.74
+ORD-20758,2025-04-12,South,Home Office,Technology,Samsung Galaxy Phone,8,0.1,4188.54
+ORD-20388,2025-04-12,South,Consumer,Furniture,Sauder Bookcase,2,0.0,316.44
+ORD-20736,2025-04-12,Central,Home Office,Technology,Brother Laser Printer,8,0.3,1986.44
+ORD-20374,2025-04-13,East,Corporate,Furniture,Bush Advantage Collection Table,7,0.3,1941.63
+ORD-20728,2025-04-13,Central,Home Office,Office Supplies,Wilson Jones Legal Size Ring Binders,8,0.15,146.86
+ORD-21010,2025-04-14,West,Consumer,Furniture,HON 5400 Series Task Chairs,2,0.0,585.72
+ORD-20213,2025-04-16,Central,Corporate,Furniture,Global Troy Executive Leather Chair,7,0.3,1732.96
+ORD-20685,2025-04-17,South,Corporate,Office Supplies,Fellowes PB500 Binding Machine,9,0.0,1790.19
+ORD-21354,2025-04-17,South,Consumer,Office Supplies,Avery Durable Binder,10,0.05,182.03
+ORD-21356,2025-04-18,West,Corporate,Office Supplies,Smead Hanging File Folder,2,0.1,26.22
+ORD-21478,2025-04-18,South,Consumer,Office Supplies,Avery Durable Binder,7,0.0,112.63
+ORD-20593,2025-04-19,Central,Consumer,Furniture,Bush Advantage Collection Table,3,0.2,942.96
+ORD-21209,2025-04-19,East,Corporate,Office Supplies,Staples File Folders,5,0.0,56.51
+ORD-21226,2025-04-19,West,Home Office,Furniture,Office Star Ergonomic Chair,10,0.2,1431.43
+ORD-20716,2025-04-19,East,Corporate,Technology,Epson WorkForce Printer,4,0.2,845.92
+ORD-20640,2025-04-20,Central,Consumer,Office Supplies,Smead Hanging File Folder,1,0.1,14.26
+ORD-20702,2025-04-21,West,Consumer,Technology,Samsung Galaxy Phone,2,0.05,1346.69
+ORD-20619,2025-04-22,East,Consumer,Office Supplies,Avery Durable Binder,4,0.0,75.04
+ORD-21028,2025-04-23,East,Home Office,Office Supplies,Wilson Jones Legal Size Ring Binders,5,0.0,109.83
+ORD-20867,2025-04-23,East,Consumer,Furniture,HON 5400 Series Task Chairs,9,0.15,2404.32
+ORD-21475,2025-04-23,Central,Home Office,Technology,Brother Laser Printer,4,0.3,762.23
+ORD-20988,2025-04-25,South,Home Office,Furniture,Office Star Ergonomic Chair,3,0.05,682.04
+ORD-21459,2025-04-27,East,Consumer,Furniture,HON 5400 Series Task Chairs,5,0.15,1198.47
+ORD-21076,2025-04-27,South,Corporate,Furniture,Sauder Bookcase,2,0.0,345.11
+ORD-20885,2025-04-28,South,Home Office,Office Supplies,GBC DocuBind TL300,7,0.1,839.08
+ORD-21367,2025-04-30,West,Home Office,Technology,Cisco TelePresence System,4,0.05,3943.83
+ORD-21383,2025-04-30,Central,Corporate,Furniture,Sauder Bookcase,1,0.05,181.82
+ORD-20164,2025-04-30,West,Corporate,Furniture,HON 5400 Series Task Chairs,4,0.15,1053.3
+ORD-20293,2025-05-01,South,Home Office,Furniture,HON 5400 Series Task Chairs,5,0.05,1457.14
+ORD-20314,2025-05-03,South,Corporate,Office Supplies,Avery Durable Binder,6,0.1,85.39
+ORD-21085,2025-05-03,South,Home Office,Office Supplies,Staples File Folders,4,0.0,45.97
+ORD-20199,2025-05-03,Central,Corporate,Technology,Brother Laser Printer,7,0.0,2475.09
+ORD-20195,2025-05-04,South,Corporate,Office Supplies,Wilson Jones Legal Size Ring Binders,3,0.1,50.77
+ORD-20185,2025-05-04,South,Corporate,Technology,Anker USB-C Hub,10,0.3,381.45
+ORD-20097,2025-05-05,East,Corporate,Technology,Canon imageCLASS 2200,6,0.0,4467.71
+ORD-20078,2025-05-06,South,Consumer,Furniture,Bush Advantage Collection Table,5,0.1,1709.03
+ORD-20752,2025-05-06,South,Home Office,Furniture,Sauder Bookcase,8,0.2,1266.28
+ORD-21343,2025-05-07,South,Corporate,Office Supplies,Fellowes PB500 Binding Machine,6,0.3,895.84
+ORD-20416,2025-05-07,East,Corporate,Technology,Canon imageCLASS 2200,2,0.2,1333.85
+ORD-21219,2025-05-08,West,Home Office,Office Supplies,Desk Organizer Set,1,0.3,19.93
+ORD-21163,2025-05-08,South,Home Office,Technology,Cisco TelePresence System,8,0.1,7370.09
+ORD-21071,2025-05-09,East,Home Office,Technology,Brother Laser Printer,5,0.15,1217.74
+ORD-20413,2025-05-09,East,Consumer,Office Supplies,Avery Durable Binder,10,0.0,194.43
+ORD-20177,2025-05-09,Central,Home Office,Furniture,Global Troy Executive Leather Chair,5,0.0,1806.46
+ORD-21206,2025-05-09,Central,Home Office,Technology,Canon imageCLASS 2200,1,0.2,578.85
+ORD-21036,2025-05-10,Central,Consumer,Furniture,HON 5400 Series Task Chairs,8,0.1,2150.91
+ORD-20692,2025-05-10,East,Corporate,Technology,Anker USB-C Hub,4,0.1,189.99
+ORD-20267,2025-05-11,Central,Consumer,Office Supplies,Avery Durable Binder,5,0.05,79.02
+ORD-20821,2025-05-12,Central,Corporate,Technology,Cisco TelePresence System,1,0.3,892.3
+ORD-20209,2025-05-13,West,Home Office,Office Supplies,Staples File Folders,8,0.05,103.86
+ORD-20588,2025-05-13,East,Home Office,Office Supplies,Staples File Folders,9,0.0,106.27
+ORD-20622,2025-05-16,Central,Consumer,Technology,Samsung Galaxy Phone,1,0.1,557.05
+ORD-20975,2025-05-16,East,Corporate,Office Supplies,Fellowes PB500 Binding Machine,7,0.1,1272.0
+ORD-20169,2025-05-19,South,Home Office,Office Supplies,Avery Durable Binder,3,0.0,54.23
+ORD-21201,2025-05-20,South,Consumer,Office Supplies,Smead Hanging File Folder,4,0.05,52.66
+ORD-20830,2025-05-20,Central,Consumer,Office Supplies,Avery Durable Binder,2,0.2,29.06
+ORD-21158,2025-05-20,West,Consumer,Office Supplies,Smead Hanging File Folder,1,0.05,15.78
+ORD-20398,2025-05-20,East,Consumer,Furniture,Global Troy Executive Leather Chair,1,0.1,353.75
+ORD-20325,2025-05-23,South,Corporate,Furniture,HON 5400 Series Task Chairs,9,0.05,2567.81
+ORD-21000,2025-05-24,East,Home Office,Furniture,Office Star Ergonomic Chair,2,0.05,382.21
+ORD-20486,2025-05-24,East,Corporate,Furniture,Global Troy Executive Leather Chair,6,0.3,1460.59
+ORD-20193,2025-05-25,Central,Home Office,Furniture,Office Star Ergonomic Chair,3,0.3,379.05
+ORD-21067,2025-05-25,West,Corporate,Furniture,Global Troy Executive Leather Chair,7,0.1,2308.95
+ORD-20224,2025-05-26,East,Corporate,Office Supplies,GBC DocuBind TL300,3,0.3,290.25
+ORD-20944,2025-05-26,Central,Home Office,Office Supplies,GBC DocuBind TL300,5,0.0,679.3
+ORD-21152,2025-05-28,East,Corporate,Technology,HP LaserJet 3310,9,0.3,3111.39
+ORD-20140,2025-05-28,South,Corporate,Furniture,HON 5400 Series Task Chairs,3,0.2,654.64
+ORD-20203,2025-05-28,East,Consumer,Office Supplies,Desk Organizer Set,10,0.0,235.98
+ORD-20844,2025-05-28,West,Corporate,Technology,Cisco TelePresence System,7,0.3,5073.15
+ORD-20172,2025-05-31,West,Corporate,Furniture,HON 5400 Series Task Chairs,10,0.15,2076.33
+ORD-20202,2025-06-01,West,Corporate,Technology,Logitech Wireless Mouse,5,0.3,104.83
+ORD-20208,2025-06-01,Central,Consumer,Technology,Cisco TelePresence System,10,0.0,13147.32
+ORD-21451,2025-06-01,Central,Corporate,Technology,Epson WorkForce Printer,5,0.0,1301.55
+ORD-20263,2025-06-02,South,Home Office,Office Supplies,Desk Organizer Set,7,0.2,143.95
+ORD-20544,2025-06-03,Central,Home Office,Furniture,Bush Advantage Collection Table,4,0.3,1111.76
+ORD-20598,2025-06-05,East,Corporate,Technology,Anker USB-C Hub,3,0.1,133.78
+ORD-20132,2025-06-05,West,Home Office,Technology,Epson WorkForce Printer,6,0.1,1529.67
+ORD-20462,2025-06-05,East,Corporate,Technology,Anker USB-C Hub,7,0.2,229.94
+ORD-20118,2025-06-07,Central,Consumer,Technology,Anker USB-C Hub,4,0.3,138.16
+ORD-20271,2025-06-07,South,Home Office,Office Supplies,Wilson Jones Legal Size Ring Binders,1,0.0,18.72
+ORD-20832,2025-06-07,East,Home Office,Office Supplies,Avery Durable Binder,7,0.0,113.53
+ORD-20556,2025-06-08,East,Consumer,Furniture,Sauder Bookcase,8,0.0,1433.59
+ORD-20082,2025-06-08,Central,Consumer,Technology,Anker USB-C Hub,3,0.3,89.1
+ORD-21330,2025-06-08,South,Corporate,Office Supplies,Desk Organizer Set,4,0.0,94.36
+ORD-20445,2025-06-11,East,Home Office,Office Supplies,Wilson Jones Legal Size Ring Binders,10,0.0,238.56
+ORD-20842,2025-06-14,South,Home Office,Furniture,Sauder Bookcase,2,0.15,268.59
+ORD-21179,2025-06-14,West,Corporate,Furniture,HON 5400 Series Task Chairs,5,0.0,1254.1
+ORD-20519,2025-06-15,South,Corporate,Furniture,Sauder Bookcase,8,0.05,1288.09
+ORD-20948,2025-06-16,Central,Consumer,Technology,Brother Laser Printer,4,0.2,1134.47
+ORD-20012,2025-06-17,East,Consumer,Furniture,Bush Advantage Collection Table,5,0.2,1813.81
+ORD-20759,2025-06-18,West,Home Office,Furniture,Office Star Ergonomic Chair,8,0.0,1717.57
+ORD-20006,2025-06-20,South,Consumer,Furniture,Bush Advantage Collection Table,10,0.15,3927.51
+ORD-20896,2025-06-20,West,Home Office,Technology,Epson WorkForce Printer,2,0.0,473.34
+ORD-21052,2025-06-20,West,Consumer,Technology,Anker USB-C Hub,8,0.0,431.44
+ORD-21492,2025-06-21,West,Consumer,Office Supplies,Wilson Jones Legal Size Ring Binders,4,0.2,64.06
+ORD-20100,2025-06-26,Central,Home Office,Technology,Samsung Galaxy Phone,6,0.0,3279.36
+ORD-20693,2025-06-27,West,Home Office,Technology,HP LaserJet 3310,10,0.2,3932.76
+ORD-20719,2025-06-29,East,Corporate,Office Supplies,Staples File Folders,10,0.2,93.04
+ORD-20595,2025-07-02,Central,Consumer,Technology,Samsung Galaxy Phone,3,0.05,1806.09
+ORD-20730,2025-07-04,East,Corporate,Technology,Epson WorkForce Printer,4,0.05,984.06
+ORD-20739,2025-07-04,West,Home Office,Office Supplies,Staples File Folders,5,0.2,53.1
+ORD-21192,2025-07-04,West,Corporate,Office Supplies,Wilson Jones Legal Size Ring Binders,4,0.15,71.56
+ORD-20034,2025-07-05,South,Consumer,Furniture,Bush Advantage Collection Table,1,0.15,394.41
+ORD-20091,2025-07-05,West,Home Office,Furniture,HON 5400 Series Task Chairs,1,0.1,232.63
+ORD-20951,2025-07-05,West,Consumer,Office Supplies,Desk Organizer Set,8,0.0,189.64
+ORD-20855,2025-07-06,West,Home Office,Furniture,Bush Advantage Collection Table,2,0.0,730.53
+ORD-20985,2025-07-07,West,Corporate,Office Supplies,Staples File Folders,6,0.0,61.75
+ORD-20963,2025-07-08,South,Corporate,Office Supplies,Desk Organizer Set,4,0.2,88.46
+ORD-21341,2025-07-08,West,Consumer,Technology,Samsung Galaxy Phone,7,0.3,2939.58
+ORD-20735,2025-07-08,Central,Consumer,Technology,Cisco TelePresence System,1,0.1,998.23
+ORD-20194,2025-07-08,West,Consumer,Office Supplies,GBC DocuBind TL300,4,0.15,470.07
+ORD-21240,2025-07-09,Central,Home Office,Technology,Anker USB-C Hub,6,0.05,264.74
+ORD-21279,2025-07-10,South,Home Office,Furniture,Global Troy Executive Leather Chair,3,0.3,692.4
+ORD-20585,2025-07-11,South,Consumer,Furniture,Office Star Ergonomic Chair,3,0.15,540.18
+ORD-21499,2025-07-13,South,Consumer,Furniture,Bush Advantage Collection Table,1,0.1,401.77
+ORD-20145,2025-07-14,Central,Home Office,Technology,Brother Laser Printer,8,0.1,1942.33
+ORD-21006,2025-07-15,Central,Corporate,Technology,Logitech Wireless Mouse,8,0.2,256.96
+ORD-21088,2025-07-17,Central,Corporate,Furniture,Office Star Ergonomic Chair,9,0.15,1803.54
+ORD-20066,2025-07-18,Central,Corporate,Office Supplies,Smead Hanging File Folder,2,0.0,32.32
+ORD-20971,2025-07-19,West,Home Office,Furniture,Office Star Ergonomic Chair,1,0.3,139.13
+ORD-20297,2025-07-20,South,Home Office,Office Supplies,Desk Organizer Set,4,0.0,105.92
+ORD-20301,2025-07-20,South,Corporate,Office Supplies,Desk Organizer Set,4,0.2,83.52
+ORD-20615,2025-07-23,East,Consumer,Office Supplies,Fellowes PB500 Binding Machine,2,0.2,320.11
+ORD-21252,2025-07-26,Central,Home Office,Furniture,Global Troy Executive Leather Chair,1,0.2,289.14
+ORD-20863,2025-07-27,South,Corporate,Technology,Canon imageCLASS 2200,8,0.15,5890.0
+ORD-20008,2025-07-27,South,Home Office,Technology,Canon imageCLASS 2200,8,0.1,6292.83
+ORD-20243,2025-07-28,West,Home Office,Office Supplies,Fellowes PB500 Binding Machine,10,0.15,1620.2
+ORD-20592,2025-07-29,South,Consumer,Office Supplies,Wilson Jones Legal Size Ring Binders,2,0.0,42.04
+ORD-20081,2025-07-31,South,Corporate,Office Supplies,Desk Organizer Set,3,0.3,48.06
+ORD-20968,2025-07-31,Central,Home Office,Technology,Logitech Wireless Mouse,9,0.15,240.37
+ORD-20372,2025-07-31,East,Corporate,Technology,Canon imageCLASS 2200,2,0.05,1652.49
+ORD-20904,2025-08-02,East,Corporate,Furniture,HON 5400 Series Task Chairs,2,0.0,616.36
+ORD-20232,2025-08-02,West,Corporate,Technology,Samsung Galaxy Phone,1,0.0,548.82
+ORD-20851,2025-08-03,South,Corporate,Technology,Samsung Galaxy Phone,2,0.2,1080.63
+ORD-20069,2025-08-04,South,Consumer,Technology,Samsung Galaxy Phone,9,0.3,4081.33
+ORD-21423,2025-08-05,Central,Home Office,Office Supplies,Staples File Folders,7,0.15,68.34
+ORD-21307,2025-08-07,South,Consumer,Office Supplies,Staples File Folders,10,0.3,94.84
+ORD-20041,2025-08-09,South,Consumer,Furniture,Office Star Ergonomic Chair,1,0.0,184.49
+ORD-21373,2025-08-10,Central,Home Office,Technology,Logitech Wireless Mouse,5,0.3,104.59
+ORD-20234,2025-08-11,East,Home Office,Technology,Brother Laser Printer,2,0.05,652.78
+ORD-21368,2025-08-12,Central,Corporate,Office Supplies,GBC DocuBind TL300,10,0.2,1009.77
+ORD-21142,2025-08-12,South,Corporate,Office Supplies,Wilson Jones Legal Size Ring Binders,4,0.0,90.27
+ORD-20777,2025-08-12,Central,Consumer,Technology,Brother Laser Printer,10,0.2,2522.62
+ORD-20298,2025-08-13,Central,Corporate,Furniture,Global Troy Executive Leather Chair,10,0.0,3884.89
+ORD-21387,2025-08-14,West,Consumer,Technology,Anker USB-C Hub,7,0.0,312.25
+ORD-20591,2025-08-14,South,Home Office,Office Supplies,Avery Durable Binder,7,0.0,115.71
+ORD-20834,2025-08-14,East,Home Office,Office Supplies,GBC DocuBind TL300,9,0.05,987.54
+ORD-20749,2025-08-16,South,Home Office,Technology,Cisco TelePresence System,9,0.0,11772.72
+ORD-20016,2025-08-19,West,Consumer,Technology,Cisco TelePresence System,7,0.2,7619.21
+ORD-20289,2025-08-19,East,Corporate,Technology,Samsung Galaxy Phone,8,0.15,3768.5
+ORD-21286,2025-08-20,Central,Consumer,Technology,Samsung Galaxy Phone,4,0.2,2191.98
+ORD-20744,2025-08-20,South,Consumer,Furniture,Sauder Bookcase,7,0.1,1069.93
+ORD-20174,2025-08-21,West,Corporate,Furniture,Sauder Bookcase,9,0.15,1323.84
+ORD-21447,2025-08-21,South,Consumer,Furniture,Bush Advantage Collection Table,10,0.15,3127.7
+ORD-20109,2025-08-21,South,Home Office,Furniture,HON 5400 Series Task Chairs,10,0.05,2261.25
+ORD-21044,2025-08-22,West,Consumer,Office Supplies,Staples File Folders,7,0.2,63.76
+ORD-21396,2025-08-24,Central,Corporate,Technology,Epson WorkForce Printer,1,0.0,297.54
+ORD-20889,2025-08-24,Central,Consumer,Technology,Epson WorkForce Printer,8,0.15,1876.99
+ORD-21211,2025-08-26,East,Consumer,Technology,Brother Laser Printer,10,0.1,2951.54
+ORD-20879,2025-08-26,Central,Home Office,Furniture,HON 5400 Series Task Chairs,8,0.15,1698.96
+ORD-20779,2025-08-29,Central,Home Office,Furniture,Office Star Ergonomic Chair,8,0.2,1335.25
+ORD-20727,2025-08-30,Central,Consumer,Office Supplies,Avery Durable Binder,5,0.0,101.2
+ORD-21078,2025-08-30,South,Home Office,Furniture,Global Troy Executive Leather Chair,10,0.3,2219.99
+ORD-20313,2025-08-31,East,Home Office,Technology,Brother Laser Printer,1,0.2,216.36
+ORD-20912,2025-08-31,East,Corporate,Technology,Canon imageCLASS 2200,2,0.15,1325.79
+ORD-20890,2025-08-31,Central,Consumer,Technology,Brother Laser Printer,10,0.0,2952.56
+ORD-20668,2025-08-31,South,Corporate,Technology,Samsung Galaxy Phone,8,0.3,3403.82
+ORD-20550,2025-09-01,South,Corporate,Technology,Logitech Wireless Mouse,3,0.15,101.76
+ORD-20011,2025-09-01,West,Corporate,Furniture,Bush Advantage Collection Table,8,0.1,2836.31
+ORD-21164,2025-09-01,East,Home Office,Technology,Brother Laser Printer,5,0.3,1234.34
+ORD-20412,2025-09-02,West,Home Office,Furniture,Office Star Ergonomic Chair,8,0.3,1067.03
+ORD-20579,2025-09-02,Central,Consumer,Office Supplies,Desk Organizer Set,4,0.2,94.81
+ORD-20200,2025-09-02,South,Home Office,Furniture,Office Star Ergonomic Chair,6,0.0,1434.8
+ORD-20664,2025-09-02,South,Corporate,Technology,Logitech Wireless Mouse,3,0.1,104.81
+ORD-20691,2025-09-02,Central,Consumer,Furniture,Global Troy Executive Leather Chair,4,0.05,1540.4
+ORD-20487,2025-09-03,West,Consumer,Furniture,Global Troy Executive Leather Chair,6,0.3,1354.43
+ORD-20843,2025-09-04,East,Corporate,Office Supplies,Smead Hanging File Folder,10,0.3,117.24
+ORD-20090,2025-09-05,West,Home Office,Technology,Brother Laser Printer,2,0.1,553.42
+ORD-20357,2025-09-05,South,Home Office,Technology,Canon imageCLASS 2200,2,0.1,1750.85
+ORD-21239,2025-09-05,East,Consumer,Office Supplies,Desk Organizer Set,5,0.3,98.13
+ORD-21257,2025-09-05,East,Corporate,Technology,Anker USB-C Hub,10,0.3,292.51
+ORD-20384,2025-09-06,West,Corporate,Office Supplies,Staples File Folders,7,0.15,77.07
+ORD-20659,2025-09-06,Central,Home Office,Office Supplies,Staples File Folders,8,0.0,106.61
+ORD-20316,2025-09-06,Central,Consumer,Office Supplies,GBC DocuBind TL300,7,0.15,777.67
+ORD-20257,2025-09-08,Central,Home Office,Technology,Cisco TelePresence System,7,0.1,8307.04
+ORD-20682,2025-09-09,East,Consumer,Technology,Cisco TelePresence System,10,0.1,11232.43
+ORD-21178,2025-09-12,South,Consumer,Technology,Logitech Wireless Mouse,6,0.0,207.93
+ORD-20903,2025-09-13,Central,Home Office,Technology,Epson WorkForce Printer,9,0.0,1990.42
+ORD-20190,2025-09-13,Central,Consumer,Technology,Canon imageCLASS 2200,8,0.3,5268.22
+ORD-20306,2025-09-14,West,Home Office,Technology,Samsung Galaxy Phone,1,0.0,674.58
+ORD-21382,2025-09-15,West,Corporate,Office Supplies,Fellowes PB500 Binding Machine,8,0.3,980.83
+ORD-20060,2025-09-15,South,Consumer,Office Supplies,Fellowes PB500 Binding Machine,3,0.15,536.38
+ORD-20782,2025-09-15,South,Home Office,Office Supplies,Desk Organizer Set,7,0.0,182.18
+ORD-20480,2025-09-16,East,Home Office,Technology,Epson WorkForce Printer,4,0.0,982.36
+ORD-20103,2025-09-17,Central,Consumer,Technology,Canon imageCLASS 2200,8,0.0,5809.02
+ORD-20400,2025-09-17,East,Corporate,Office Supplies,Smead Hanging File Folder,3,0.3,28.61
+ORD-20891,2025-09-19,West,Consumer,Office Supplies,Wilson Jones Legal Size Ring Binders,7,0.15,143.89
+ORD-20973,2025-09-19,Central,Home Office,Technology,Canon imageCLASS 2200,3,0.05,2405.33
+ORD-21187,2025-09-20,South,Home Office,Technology,Anker USB-C Hub,1,0.2,41.51
+ORD-21075,2025-09-21,Central,Corporate,Furniture,Sauder Bookcase,6,0.15,826.71
+ORD-20546,2025-09-22,West,Corporate,Technology,Brother Laser Printer,6,0.2,1296.72
+ORD-21351,2025-09-22,Central,Consumer,Office Supplies,Fellowes PB500 Binding Machine,6,0.05,1232.97
+ORD-20402,2025-09-22,East,Consumer,Office Supplies,Staples File Folders,10,0.1,115.02
+ORD-21130,2025-09-23,South,Corporate,Technology,Brother Laser Printer,8,0.2,2191.63
+ORD-21141,2025-09-24,South,Consumer,Technology,Anker USB-C Hub,3,0.2,120.7
+ORD-20548,2025-09-24,Central,Consumer,Furniture,Bush Advantage Collection Table,9,0.05,3221.41
+ORD-20785,2025-09-24,East,Corporate,Office Supplies,GBC DocuBind TL300,2,0.05,265.47
+ORD-21227,2025-09-25,East,Home Office,Furniture,Office Star Ergonomic Chair,1,0.15,184.0
+ORD-20916,2025-09-25,East,Home Office,Technology,Epson WorkForce Printer,2,0.1,522.46
+ORD-20292,2025-09-25,South,Home Office,Furniture,HON 5400 Series Task Chairs,9,0.2,2297.25
+ORD-21270,2025-09-26,East,Corporate,Furniture,Office Star Ergonomic Chair,5,0.2,939.52
+ORD-20225,2025-09-26,South,Corporate,Technology,Cisco TelePresence System,8,0.0,9598.35
+ORD-21321,2025-09-27,South,Consumer,Office Supplies,Staples File Folders,9,0.3,71.03
+ORD-21314,2025-09-27,Central,Consumer,Technology,Logitech Wireless Mouse,6,0.15,185.85
+ORD-20159,2025-09-28,Central,Consumer,Office Supplies,Fellowes PB500 Binding Machine,5,0.0,927.15
+ORD-21117,2025-09-28,West,Corporate,Office Supplies,Fellowes PB500 Binding Machine,1,0.2,164.33
+ORD-20528,2025-09-29,South,Consumer,Furniture,Global Troy Executive Leather Chair,2,0.1,573.48
+ORD-21449,2025-09-29,South,Corporate,Office Supplies,Staples File Folders,8,0.3,67.74
+ORD-21360,2025-09-29,East,Home Office,Office Supplies,Desk Organizer Set,3,0.0,68.41
+ORD-20353,2025-09-30,South,Consumer,Furniture,HON 5400 Series Task Chairs,8,0.0,1982.24
+ORD-20628,2025-09-30,West,Home Office,Technology,Anker USB-C Hub,9,0.2,351.87
+ORD-20379,2025-09-30,Central,Corporate,Technology,Canon imageCLASS 2200,4,0.2,2933.52
+ORD-20698,2025-09-30,Central,Home Office,Furniture,HON 5400 Series Task Chairs,4,0.1,936.37
+ORD-21213,2025-09-30,South,Corporate,Furniture,HON 5400 Series Task Chairs,10,0.0,2481.76
+ORD-20514,2025-10-01,East,Corporate,Office Supplies,Wilson Jones Legal Size Ring Binders,2,0.05,46.26
+ORD-20707,2025-10-01,East,Corporate,Technology,Cisco TelePresence System,2,0.15,2028.79
+ORD-20049,2025-10-02,West,Home Office,Technology,Cisco TelePresence System,1,0.2,1042.89
+ORD-20516,2025-10-03,East,Home Office,Office Supplies,Fellowes PB500 Binding Machine,10,0.0,1839.87
+ORD-21013,2025-10-04,East,Consumer,Office Supplies,Smead Hanging File Folder,6,0.3,64.42
+ORD-20045,2025-10-04,West,Consumer,Furniture,Bush Advantage Collection Table,6,0.05,2236.88
+ORD-21430,2025-10-08,West,Consumer,Technology,Logitech Wireless Mouse,4,0.0,155.8
+ORD-20009,2025-10-08,East,Consumer,Technology,Logitech Wireless Mouse,7,0.15,231.12
+ORD-21057,2025-10-09,Central,Home Office,Technology,Logitech Wireless Mouse,2,0.0,73.7
+ORD-20945,2025-10-10,West,Home Office,Furniture,Bush Advantage Collection Table,10,0.0,4142.54
+ORD-21003,2025-10-11,South,Corporate,Office Supplies,Wilson Jones Legal Size Ring Binders,5,0.2,87.77
+ORD-21379,2025-10-12,South,Consumer,Office Supplies,Staples File Folders,5,0.2,44.32
+ORD-20381,2025-10-13,Central,Home Office,Technology,Cisco TelePresence System,1,0.1,923.64
+ORD-21021,2025-10-14,South,Consumer,Office Supplies,Smead Hanging File Folder,2,0.2,22.93
+ORD-20094,2025-10-15,Central,Home Office,Technology,Epson WorkForce Printer,9,0.1,2011.37
+ORD-21448,2025-10-15,West,Home Office,Office Supplies,Avery Durable Binder,2,0.1,33.16
+ORD-21035,2025-10-16,East,Consumer,Technology,Epson WorkForce Printer,7,0.3,1163.08
+ORD-21484,2025-10-16,West,Corporate,Office Supplies,Avery Durable Binder,10,0.0,200.46
+ORD-21472,2025-10-17,East,Corporate,Technology,Logitech Wireless Mouse,7,0.15,194.71
+ORD-20623,2025-10-20,South,Consumer,Office Supplies,GBC DocuBind TL300,9,0.2,843.14
+ORD-20270,2025-10-20,East,Home Office,Technology,Brother Laser Printer,3,0.05,917.36
+ORD-21312,2025-10-20,West,Corporate,Office Supplies,Avery Durable Binder,6,0.05,96.93
+ORD-20111,2025-10-22,West,Consumer,Furniture,Bush Advantage Collection Table,8,0.0,3623.57
+ORD-20768,2025-10-23,West,Corporate,Technology,Logitech Wireless Mouse,9,0.05,340.75
+ORD-20790,2025-10-23,West,Corporate,Office Supplies,Avery Durable Binder,1,0.0,18.35
+ORD-21289,2025-10-23,West,Corporate,Technology,Cisco TelePresence System,3,0.0,4032.99
+ORD-20278,2025-10-25,West,Corporate,Office Supplies,Fellowes PB500 Binding Machine,6,0.0,1011.54
+ORD-20586,2025-10-25,East,Home Office,Technology,Canon imageCLASS 2200,4,0.2,2508.69
+ORD-20568,2025-10-26,South,Home Office,Office Supplies,Wilson Jones Legal Size Ring Binders,1,0.15,15.99
+ORD-20329,2025-10-26,West,Consumer,Office Supplies,GBC DocuBind TL300,2,0.1,225.11
+ORD-21118,2025-10-27,South,Corporate,Technology,Logitech Wireless Mouse,9,0.3,223.74
+ORD-20878,2025-10-27,Central,Corporate,Technology,Brother Laser Printer,3,0.2,680.67
+ORD-21109,2025-10-28,Central,Corporate,Office Supplies,Fellowes PB500 Binding Machine,7,0.2,1220.81
+ORD-20189,2025-10-31,East,Home Office,Technology,Brother Laser Printer,5,0.0,1385.74
+ORD-20335,2025-10-31,Central,Home Office,Technology,Brother Laser Printer,5,0.0,1697.27
+ORD-21194,2025-11-03,West,Consumer,Furniture,Bush Advantage Collection Table,10,0.2,3475.84
+ORD-21337,2025-11-05,Central,Home Office,Furniture,Office Star Ergonomic Chair,8,0.0,1455.35
+ORD-21297,2025-11-05,East,Corporate,Technology,Cisco TelePresence System,3,0.05,3886.8
+ORD-20311,2025-11-05,South,Consumer,Office Supplies,Wilson Jones Legal Size Ring Binders,9,0.1,173.27
+ORD-21073,2025-11-05,Central,Corporate,Furniture,HON 5400 Series Task Chairs,5,0.1,1403.77
+ORD-20453,2025-11-05,South,Consumer,Technology,Cisco TelePresence System,3,0.05,3792.36
+ORD-20261,2025-11-06,South,Consumer,Office Supplies,Wilson Jones Legal Size Ring Binders,4,0.3,65.61
+ORD-20899,2025-11-07,West,Corporate,Furniture,Global Troy Executive Leather Chair,1,0.05,338.63
+ORD-20214,2025-11-07,South,Corporate,Office Supplies,Staples File Folders,8,0.1,84.05
+ORD-21214,2025-11-08,South,Consumer,Technology,Epson WorkForce Printer,1,0.1,217.05
+ORD-20895,2025-11-09,South,Home Office,Technology,Logitech Wireless Mouse,9,0.3,247.6
+ORD-20714,2025-11-10,West,Consumer,Technology,Canon imageCLASS 2200,4,0.0,3670.67
+ORD-20854,2025-11-11,West,Corporate,Furniture,Global Troy Executive Leather Chair,6,0.3,1700.82
+ORD-21392,2025-11-11,West,Home Office,Furniture,Bush Advantage Collection Table,1,0.05,389.44
+ORD-20656,2025-11-12,Central,Consumer,Technology,Cisco TelePresence System,8,0.15,9375.9
+ORD-21462,2025-11-14,East,Home Office,Technology,Anker USB-C Hub,7,0.2,229.0
+ORD-21474,2025-11-15,East,Home Office,Furniture,Bush Advantage Collection Table,8,0.05,2976.23
+ORD-21485,2025-11-16,East,Consumer,Technology,Anker USB-C Hub,1,0.15,40.85
+ORD-20020,2025-11-16,Central,Home Office,Technology,Samsung Galaxy Phone,9,0.2,4765.37
+ORD-21229,2025-11-16,Central,Consumer,Office Supplies,Smead Hanging File Folder,2,0.3,22.28
+ORD-20914,2025-11-17,South,Consumer,Furniture,Bush Advantage Collection Table,9,0.1,3332.43
+ORD-21086,2025-11-17,East,Consumer,Technology,Brother Laser Printer,7,0.05,2203.84
+ORD-21205,2025-11-19,Central,Consumer,Technology,Samsung Galaxy Phone,9,0.3,4248.23
+ORD-21160,2025-11-19,West,Corporate,Technology,Samsung Galaxy Phone,9,0.2,4737.38
+ORD-20029,2025-11-19,West,Home Office,Technology,Cisco TelePresence System,1,0.15,1000.4
+ORD-21241,2025-11-19,Central,Home Office,Office Supplies,Staples File Folders,7,0.2,76.99
+ORD-21371,2025-11-20,Central,Consumer,Furniture,Sauder Bookcase,1,0.0,199.87
+ORD-21375,2025-11-21,East,Corporate,Technology,Samsung Galaxy Phone,2,0.2,1064.08
+ORD-21483,2025-11-21,East,Home Office,Technology,Brother Laser Printer,8,0.2,1888.29
+ORD-21261,2025-11-22,Central,Corporate,Technology,Logitech Wireless Mouse,5,0.3,107.26
+ORD-21221,2025-11-23,East,Corporate,Office Supplies,Fellowes PB500 Binding Machine,5,0.15,893.97
+ORD-21005,2025-11-24,Central,Corporate,Technology,Epson WorkForce Printer,2,0.0,447.0
+ORD-20712,2025-11-28,West,Home Office,Office Supplies,Avery Durable Binder,7,0.15,95.88
+ORD-21302,2025-11-28,Central,Corporate,Technology,Canon imageCLASS 2200,9,0.0,7194.29
+ORD-20131,2025-11-29,West,Corporate,Office Supplies,GBC DocuBind TL300,8,0.05,865.34
+ORD-20713,2025-11-30,Central,Corporate,Furniture,Bush Advantage Collection Table,7,0.0,2954.73
+ORD-21365,2025-12-02,West,Home Office,Technology,Anker USB-C Hub,3,0.0,145.74
+ORD-20394,2025-12-03,Central,Home Office,Office Supplies,Wilson Jones Legal Size Ring Binders,1,0.3,15.15
+ORD-21268,2025-12-03,East,Home Office,Office Supplies,Avery Durable Binder,2,0.15,28.67
+ORD-20053,2025-12-04,East,Home Office,Office Supplies,GBC DocuBind TL300,10,0.0,1459.02
+ORD-20862,2025-12-04,South,Corporate,Office Supplies,Smead Hanging File Folder,5,0.3,59.87
+ORD-20861,2025-12-05,East,Consumer,Technology,Cisco TelePresence System,9,0.3,7838.43
+ORD-21055,2025-12-08,South,Corporate,Technology,Epson WorkForce Printer,2,0.0,513.7
+ORD-21254,2025-12-08,Central,Home Office,Technology,Brother Laser Printer,2,0.1,506.65
+ORD-21002,2025-12-09,West,Consumer,Technology,Anker USB-C Hub,2,0.05,103.72
+ORD-20197,2025-12-10,West,Consumer,Furniture,Sauder Bookcase,1,0.15,167.4
+ORD-20865,2025-12-10,East,Home Office,Technology,Logitech Wireless Mouse,8,0.15,261.45
+ORD-21058,2025-12-10,West,Corporate,Office Supplies,Fellowes PB500 Binding Machine,1,0.3,117.51
+ORD-20065,2025-12-10,South,Corporate,Office Supplies,Avery Durable Binder,8,0.2,110.7
+ORD-21442,2025-12-10,Central,Home Office,Furniture,HON 5400 Series Task Chairs,1,0.2,218.2
+ORD-20499,2025-12-11,Central,Corporate,Furniture,Bush Advantage Collection Table,2,0.1,648.28
+ORD-20175,2025-12-11,Central,Corporate,Office Supplies,Fellowes PB500 Binding Machine,8,0.0,1738.05
+ORD-20795,2025-12-11,Central,Home Office,Technology,Anker USB-C Hub,8,0.15,339.67
+ORD-21285,2025-12-12,South,Corporate,Technology,Anker USB-C Hub,6,0.2,239.58
+ORD-21271,2025-12-14,Central,Home Office,Office Supplies,Staples File Folders,5,0.2,43.11
+ORD-21096,2025-12-14,Central,Home Office,Office Supplies,GBC DocuBind TL300,7,0.1,784.46
+ORD-20625,2025-12-15,West,Consumer,Technology,HP LaserJet 3310,10,0.15,5103.7
+ORD-20689,2025-12-15,West,Home Office,Office Supplies,Smead Hanging File Folder,10,0.0,128.77
+ORD-20277,2025-12-15,West,Consumer,Office Supplies,Desk Organizer Set,3,0.05,66.56
+ORD-20141,2025-12-16,Central,Home Office,Technology,Logitech Wireless Mouse,9,0.0,269.14
+ORD-20474,2025-12-17,West,Consumer,Technology,Epson WorkForce Printer,2,0.0,577.72
+ORD-21054,2025-12-17,East,Corporate,Technology,Anker USB-C Hub,9,0.0,427.92
+ORD-20021,2025-12-18,South,Consumer,Furniture,Bush Advantage Collection Table,9,0.15,3144.8
+ORD-21168,2025-12-18,East,Home Office,Technology,Logitech Wireless Mouse,1,0.0,39.33
+ORD-20167,2025-12-19,West,Consumer,Office Supplies,Smead Hanging File Folder,8,0.05,112.41
+ORD-20370,2025-12-19,South,Consumer,Furniture,Sauder Bookcase,2,0.15,336.41
+ORD-20025,2025-12-19,Central,Consumer,Technology,Brother Laser Printer,7,0.15,1590.38
+ORD-21198,2025-12-19,West,Consumer,Furniture,HON 5400 Series Task Chairs,8,0.0,2354.98
+ORD-20136,2025-12-19,Central,Consumer,Office Supplies,Avery Durable Binder,8,0.1,117.03
+ORD-20762,2025-12-19,South,Home Office,Office Supplies,GBC DocuBind TL300,4,0.1,400.3
+ORD-20138,2025-12-20,East,Corporate,Office Supplies,Desk Organizer Set,7,0.2,124.0
+ORD-20134,2025-12-20,West,Consumer,Technology,Epson WorkForce Printer,7,0.0,1683.09
+ORD-21415,2025-12-21,East,Consumer,Furniture,Sauder Bookcase,3,0.0,477.51
+ORD-20956,2025-12-21,South,Corporate,Furniture,Global Troy Executive Leather Chair,2,0.0,631.54
+ORD-21455,2025-12-21,South,Consumer,Furniture,HON 5400 Series Task Chairs,9,0.2,1962.17
+ORD-20599,2025-12-23,West,Corporate,Furniture,HON 5400 Series Task Chairs,1,0.15,230.57
+ORD-20763,2025-12-24,South,Home Office,Technology,Samsung Galaxy Phone,1,0.1,527.19
+ORD-20665,2025-12-24,Central,Corporate,Technology,Cisco TelePresence System,1,0.05,1200.71
+ORD-21470,2025-12-25,Central,Home Office,Office Supplies,Wilson Jones Legal Size Ring Binders,6,0.15,120.34
+ORD-21364,2025-12-25,West,Corporate,Technology,HP LaserJet 3310,10,0.2,4713.7
+ORD-21361,2025-12-25,West,Corporate,Technology,Brother Laser Printer,5,0.1,1561.94
+ORD-20577,2025-12-25,Central,Corporate,Furniture,Bush Advantage Collection Table,4,0.0,1563.97
+ORD-20674,2025-12-25,Central,Consumer,Office Supplies,Fellowes PB500 Binding Machine,10,0.2,1681.06
+ORD-20326,2025-12-27,East,Home Office,Furniture,Global Troy Executive Leather Chair,6,0.05,2316.64
+ORD-20088,2025-12-29,West,Corporate,Office Supplies,Avery Durable Binder,10,0.3,120.14
+ORD-21328,2025-12-30,South,Corporate,Technology,Anker USB-C Hub,2,0.2,73.6
